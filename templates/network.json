@@ -1,0 +1,27 @@
+{
+    "module": "evm|solana|cosmos|bitcoin|polkadot|wax|icon|obyte",
+    "name": "",
+    "chain": "optional",
+    "chainId": 0|optional,
+    "networkId": 0|optional,  
+    "icon": "",
+    "rpc": [
+        ""      
+    ],  
+    "nativeCurrency": {
+        "name": "",
+        "symbol": "",
+        "decimals": 18
+    }, 
+    "explorers": [
+        {
+        "name": "",
+        "url": "",
+        "standard": "optional"
+        }
+    ],
+    "extra": {
+        "infoURL": "Custom metadata under extra & other important to share information, also social media links",
+        "shortName": ""    
+    }
+}

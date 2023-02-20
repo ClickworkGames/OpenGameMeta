@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "description": "",
+    "icon": "",
+    "url": "",
+    "aliases": [
+        ""
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [
+                "0x0000000000000000000000000000000000000000"                
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    }       
+  }
