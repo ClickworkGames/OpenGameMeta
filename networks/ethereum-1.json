@@ -1,4 +1,5 @@
 {
+  "id": "ethereum-1",
   "module": "evm",
   "name": "Ethereum Mainnet",
   "chain": "ETH",

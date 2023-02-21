@@ -1,4 +1,5 @@
 {
+    "id": "name+chainId as filename",
     "module": "evm|solana|cosmos|bitcoin|polkadot|wax|icon|obyte",
     "name": "",
     "chain": "optional",

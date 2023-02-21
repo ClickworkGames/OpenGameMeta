@@ -1,0 +1,29 @@
+{
+    "name": "Phantom Galaxies",
+    "description": "Phantom Galaxies is an open-world space sim experience that tests the outer limits of your gaming skills.",
+    "icon": "https://cdn.superb.games/Phantom_galaxies_logo_7d564d1c82.png?format=webp&quality=100&height=185",
+    "url": "https://phantomgalaxies.com/",
+    "aliases": [],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [
+                "0x95Fcb7f46F1E652fDF23db087C0F24011775be00",
+                "0x0686113B494851402389e6371ca7C76dA4ED0875",
+                "0xBD662d0D765428A79aee9aE7B003E7037d77F041"
+            ],
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        },
+        "ethereum-1": {
+            "assets": [
+                "0x39Fa15E7dffd76bDeec83C9a1A8eF023661C9B6c"                
+            ],
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    }       
+}

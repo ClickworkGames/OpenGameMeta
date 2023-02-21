@@ -1,0 +1,11 @@
+{
+    "name": "Upland",
+    "description": "Upland is a Web3 real-estate game mapped on the real world.",
+    "icon": "https://cdn.superb.games/Upland_Logo_1f89a523d3.png?format=webp&quality=100&height=185",
+    "url": "https://www.upland.me/",
+    "aliases": [
+        "https://r.upland.me/",
+        "https://play.upland.me/"
+    ],  
+    "contracts": {}       
+}

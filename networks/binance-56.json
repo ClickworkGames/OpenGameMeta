@@ -1,4 +1,5 @@
 {
+    "id": "binance-56",
     "module": "evm",
     "name": "Binance Smart Chain Mainnet",
     "chain": "BSC",

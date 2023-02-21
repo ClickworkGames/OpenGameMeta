@@ -9,7 +9,16 @@
             "assets": [
                 "0x5911a6DA952A9D1B67Be13cEcB389aD247420360"
             ],
-            "tokens": [],
+            "tokens": [
+                {
+                    "symbol": "PRIMATE",
+                    "contract": "0x46e98FFE40E408bA6412bEb670507e083C8B95ff"
+                },
+                {
+                    "symbol": "APE",
+                    "contract": "0x4d224452801ACEd8B2F0aebE155379bb5D594381"
+                }
+            ],
             "rent": [],
             "defi": [],
             "other": [
@@ -21,8 +30,21 @@
                 "0x88BB5B695535D7ACb5970FE9F9E698d16f55bf16"
             ]  
         },
+        "binance-56": {
+            "assets": [],
+            "tokens": [               
+                {
+                    "symbol": "PRIMATE",
+                    "contract": "0xA19863E302FD1B41276fCe5A48D9C511DBeEf34c"
+                }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        },
         "polygon-137": {
             "assets": [],
+            "tokens": [],
             "rent": [],
             "defi": [],
             "other": [
