@@ -1,5 +1,5 @@
 # GameMeta
-**GameMeta is a Gaming Metadata Protocol**
+**GameMeta is a Open Gaming Metadata Protocol**
 
 GameMeta is a list of gaming networks and a game metadata catalogue. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate game-related networks. Game studios & developers can use this info to build better web3 games and validate game-related contracts & details.
 
