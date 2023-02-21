@@ -1,0 +1,33 @@
+{
+    "name": "Benji Bananas",
+    "description": "Benji Bananas is a free-to-play mobile game from Animoca Brands available for download on the App Store and Google Play. It is a popular action game (over 50 million downloads) in which players make Benji the monkey and his friends leap from vine to vine through the jungle.",
+    "icon": "https://benjibananas.com/static/media/logo.06e94c0a.png",
+    "url": "https://benjibananas.com/",
+    "aliases": [],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [
+                "0x5911a6DA952A9D1B67Be13cEcB389aD247420360"
+            ],
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": [
+                "0x058bD726F1E7E56f819b7Bdc431C9dA8EFB11cc8",
+                "0x5D1a320EE266Cac2D89190a2958909C993C79128",
+                "0x28CCF125B7751e830FC0f345690806905CAA4E0a",
+                "0xa62b87cd634fCeab940361e6C9584d620E904e11",
+                "0x41c517C9A1051da7704D8DE3e6e642597D7e13FC",
+                "0x88BB5B695535D7ACb5970FE9F9E698d16f55bf16"
+            ]  
+        },
+        "polygon-137": {
+            "assets": [],
+            "rent": [],
+            "defi": [],
+            "other": [
+                "0xE6f1D4Eef6EA4cF5Ae53eb13549eF52849D5dCA3"
+            ]  
+        }        
+    }       
+}

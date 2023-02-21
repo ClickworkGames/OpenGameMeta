@@ -1,0 +1,30 @@
+{
+    "name": "Illuvium",
+    "description": "Illuvium is an open-world exploration, monster-collecting, and autobattle game.",
+    "icon": "https://web-illuvium-static.s3.us-east-2.amazonaws.com/img/illuvium.svg",
+    "url": "https://illuvium.io/",
+    "aliases": [],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [
+               "0x4222b2a98dAa443C6a0a761300d7d6bfD9161E52",
+               "0x9e0d99B864E1Ac12565125c5a82B59adEa5a09Cd"
+            ],
+            "tokens": [
+                {
+                    "symbol": "ILV",
+                    "contract": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
+                }
+            ],
+            "rent": [],
+            "defi": [
+                "0x9898d72c2901D09E72A426d1c24b6ab90eB100e7",
+                "0x8B4d8443a0229349A9892D4F7CbE89eF5f843F72",
+                "0x25121EDDf746c884ddE4619b573A7B10714E2a36"
+            ],
+            "other": [
+                "0x7a47F7707C4b2f2B1dEF04A47cD8681d48eaDEB8"            
+            ]  
+        }   
+    }       
+}
