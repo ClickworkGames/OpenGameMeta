@@ -22,19 +22,20 @@ Module is Superb related parameter to define type of the network so we know whic
     - Bitcoin (bitcoin)
     - Polkadot (polkadot)
     - WAX (wax)
+    - EOS (eos)
     - ICON (icon)
     - Obyte (obyte)
 
-Location: /networks
-An example for Ethereum Mainnet is under “/networks/ethereum-1.json”.
+**Location: /networks
+An example for Ethereum Mainnet is under “/networks/ethereum-1.json”.**
 
 ## Game metadata
 Game metadata is vital so wallets and other web3 games and other projects can verify and interact with those contracts & tokens. Be aware of the metadata and other details needed to present it to other like it's meant to.
 
 Game metadata has following core elements like name, description & logo. Network reference & smart contract information for all assets for each referenced network.
 
-Location: /games
-An example for The Smurfs Society is under “/networks/the-smurfs-society.json”.
+**Location: /games
+An example for The Smurfs Society is under “/networks/the-smurfs-society.json”.**
 
 ## Adding your game data
 

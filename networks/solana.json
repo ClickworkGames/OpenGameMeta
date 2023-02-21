@@ -1,0 +1,43 @@
+{
+    "id": "solana",
+    "module": "solana",
+    "name": "Solana Mainnet",
+    "chain": "SOL",
+    "chainId": "mainnet-beta",
+    "networkId": "mainnet-beta",  
+    "icon": "sol",
+    "rpc": [      
+        "https://api.mainnet-beta.solana.com/",
+        "https://rpc.ankr.com/solana",
+        "https://try-rpc.mainnet.solana.blockdaemon.tech"
+    ],  
+    "nativeCurrency": {
+        "name": "SOL Token",
+        "symbol": "SOL",
+        "decimals": 9
+        }, 
+    "explorers": [
+        {
+            "name": "solana",
+            "url": "https://explorer.solana.com/"            
+        },
+        {
+            "name": "solanabeach",
+            "url": "http://solanabeach.io/"            
+        },        
+        {
+            "name": "solscan",
+            "url": "https://solscan.io/"            
+        }
+    ],
+    "extra": {
+        "infoURL": "https://solana.com/",
+        "shortName": "sol",
+        "validators": [
+            "7Np41oeYqPefeNQEHSv1UDhYrehxin3NStELsSKCT4K2",
+            "GdnSyH3YtwcxFvQrVVJMm1JhTS4QVX7MFsX56uJLUfiZ",
+            "DE1bawNcRJB9rVm3buyMVfr8mBEoyyu73NBovf2oXJsJ",
+            "CakcnaRDHka2gXyfbEd2d3xsvkJkqsLw2akB3zsN1D2S"
+        ]        
+    }
+}

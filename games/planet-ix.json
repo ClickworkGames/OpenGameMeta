@@ -46,5 +46,8 @@
                 "0x245755B57c16eC301e50D3B84fB12485f7E7860b"
             ]  
         }        
-    }       
+    },
+    "social": {        
+        "superb": "https://superb.games/games/planet-ix"        
+    }
 }

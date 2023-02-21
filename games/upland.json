@@ -9,7 +9,9 @@
     ],  
     "contracts": {
         "wax": {
-            "assets": [],
+            "assets": [
+                "upland.cards"
+            ],
             "tokens": [
                 {
                     "symbol": "UPX",
