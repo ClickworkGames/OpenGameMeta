@@ -7,5 +7,20 @@
         "https://r.upland.me/",
         "https://play.upland.me/"
     ],  
-    "contracts": {}       
+    "contracts": {
+        "wax": {
+            "assets": [],
+            "tokens": [
+                {
+                    "symbol": "UPX",
+                    "contract": "upxtokenacct"
+                }                                    
+            ],
+            "rent": [],
+            "defi": [],
+            "other": [
+                "playuplandme"
+            ]  
+        }
+    }       
 }
