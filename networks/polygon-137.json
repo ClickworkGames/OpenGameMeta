@@ -1,0 +1,34 @@
+{
+  "id": "polygon-137",
+  "module": "evm",
+  "name": "Polygon Mainnet",
+  "chain": "Polygon",
+  "chainId": 137,
+  "networkId": 137,  
+  "icon": "https://cdn.superb.games/polygon_matic_logo_a2a25b07ef.png?format=png&quality=100&height=150",
+  "rpc": [
+    "https://polygon-rpc.com/",
+    "https://rpc-mainnet.matic.network",
+    "https://matic-mainnet.chainstacklabs.com",
+    "https://rpc-mainnet.maticvigil.com",
+    "https://rpc-mainnet.matic.quiknode.pro",
+    "https://matic-mainnet-full-rpc.bwarelabs.com",
+    "https://polygon-bor.publicnode.com"
+  ],  
+  "nativeCurrency": {
+    "name": "MATIC",
+    "symbol": "MATIC",
+    "decimals": 18
+  }, 
+  "explorers": [
+    {
+      "name": "Polygonscan",
+      "url": "https://polygonscan.com"      
+    }
+  ],
+  "extra": {
+    "infoURL": "https://polygon.technology/",
+    "shortName": "matic",
+    "slip44": 966
+  }
+}

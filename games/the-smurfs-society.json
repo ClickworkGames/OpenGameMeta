@@ -1,0 +1,26 @@
+{
+    "id": "the-smurfs-society",
+    "name": "The Smurfs' Society",
+    "description": "The Smurfs' Society is a pioneering Web3 community that combines a trusted global brand with blockchain technology to create the most immersive NFT experience yet.",
+    "icon": "https://app.thesmurfssociety.com/img/logo.png",
+    "url": "https://thesmurfssociety.com/",
+    "aliases": [
+        "https://app.thesmurfssociety.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [
+                "0xBaC7E3182BB6691F180Ef91f7Ae4530Abb3dc08D",
+                "0x48c75FbF0452fA8FF2928Ddf46B0fE7629cCa2FF",
+                "0x81A306F8233b260a5A2e699F972Ec60d4b80eF60",
+                "0xe7613a41b7361c97F6670033cfAf6311C7583ac9",
+            ],
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": [
+                "0xe7613a41b7361c97F6670033cfAf6311C7583ac9"
+            ]  
+        }        
+    }       
+}

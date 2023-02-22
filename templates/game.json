@@ -1,0 +1,47 @@
+{
+    "id": "slug-filename",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "url": "",
+    "aliases": [
+        ""
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [
+                "0x0000000000000000000000000000000000000000"                
+            ],
+            "tokens": [
+                {
+                    "symbol": "SYMBOL",
+                    "contract": "0x0000000000000000000000000000000000000000"
+                }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {
+        "facebook": "",
+        "youtube": "",
+        "whatsapp": "",
+        "instagram": "",
+        "tiktok": "",
+        "snapchat": "",
+        "telegram": "",
+        "pinterest": "",
+        "twitter": "",
+        "reddit": "",
+        "discord": "",
+        "superb": "",
+        "twitch": "",
+        "lens": ""
+    },
+    "extra": {        
+        "whitepaper": "",
+        "litepaper": "",
+        "documentation": ""        
+    }
+  }

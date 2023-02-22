@@ -1,0 +1,30 @@
+{
+    "id": "wax",
+    "module": "wax",
+    "name": "WAX Mainnet",
+    "chain": "WAX",
+    "chainId": "1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4",
+    "networkId": "1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4",  
+    "icon": "https://cdn.superb.games/wax_waxp_logo_4388651092.png?format=png&quality=100&height=150",
+    "rpc": [
+        "https://wax.dfuse.eosnation.io",
+        "https://wax.eosdac.io/",
+        "https://wax.api.eosnation.io/",
+        "wss://wax.dfuse.eosnation.io/v1/stream"
+    ],  
+    "nativeCurrency": {
+        "name": "WAX Token",
+        "symbol": "WAX",
+        "decimals": 8
+        }, 
+    "explorers": [       
+        {
+            "name": "eosx",
+            "url": "https://wax.eosx.io/"            
+        }
+    ],
+    "extra": {
+        "infoURL": "https://www.wax.io/",
+        "shortName": "wax"           
+    }
+}

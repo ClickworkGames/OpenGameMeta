@@ -1,0 +1,34 @@
+{
+  "id": "ethereum-1",
+  "module": "evm",
+  "name": "Ethereum Mainnet",
+  "chain": "ETH",
+  "chainId": 1,
+  "networkId": 1,  
+  "icon": "https://cdn.superb.games/ethereum_eth_logo_2cf8146512.png?format=png&quality=100&height=150",
+  "rpc": [    
+    "https://rpc.ankr.com/eth",
+    "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
+    "wss://mainnet.infura.io/ws/v3/${INFURA_API_KEY}",
+    "https://cloudflare-eth.com"
+  ],    
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },  
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://etherscan.io"      
+    }
+  ],
+  "extra": {
+    "infoURL": "https://ethereum.org",
+    "shortName": "eth",
+    "slip44": 60,
+    "ens": {
+      "registry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
+    }
+  }
+}

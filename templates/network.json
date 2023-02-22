@@ -1,0 +1,27 @@
+{
+    "id": "name+chainId as filename",
+    "module": "evm|solana|cosmos|bitcoin|polkadot|eos|icon|obyte",
+    "name": "",
+    "chain": "optional",
+    "chainId": 0|optional,
+    "networkId": 0|optional,  
+    "icon": "",
+    "rpc": [
+        ""      
+    ],  
+    "nativeCurrency": {
+        "name": "",
+        "symbol": "",
+        "decimals": 18
+    }, 
+    "explorers": [
+        {
+            "name": "",
+            "url": ""
+        }
+    ],
+    "extra": {
+        "infoURL": "Custom metadata under extra & other important to share information, also social media links",
+        "shortName": ""    
+    }
+}
