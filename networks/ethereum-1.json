@@ -5,11 +5,11 @@
   "chain": "ETH",
   "chainId": 1,
   "networkId": 1,  
-  "icon": "ethereum",
-  "rpc": [
+  "icon": "https://cdn.superb.games/ethereum_eth_logo_2cf8146512.png?format=png&quality=100&height=150",
+  "rpc": [    
+    "https://rpc.ankr.com/eth",
     "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
     "wss://mainnet.infura.io/ws/v3/${INFURA_API_KEY}",
-    "https://api.mycryptoapi.com/eth",
     "https://cloudflare-eth.com"
   ],    
   "nativeCurrency": {
@@ -19,9 +19,8 @@
   },  
   "explorers": [
     {
-      "name": "etherscan",
-      "url": "https://etherscan.io",
-      "standard": "EIP3091"
+      "name": "Etherscan",
+      "url": "https://etherscan.io"      
     }
   ],
   "extra": {

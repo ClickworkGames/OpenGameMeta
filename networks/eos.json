@@ -5,7 +5,7 @@
     "chain": "EOS",
     "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
     "networkId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",  
-    "icon": "eos",
+    "icon": "https://cdn.superb.games/eos_eos_logo_ccb0edca02.png?format=png&quality=100&height=150",
     "rpc": [
         "https://eos.greymass.com",
         "https://api.eoseoul.io",
@@ -17,17 +17,15 @@
         "name": "EOS Token",
         "symbol": "EOS",
         "decimals": 4
-        }, 
+    }, 
     "explorers": [
         {
-            "name": "eosauthority",
-            "url": "https://eosauthority.com/",
-            "standard": ""
+            "name": "EOSauthority",
+            "url": "https://eosauthority.com/"            
         },
         {
-            "name": "eosx",
-            "url": "https://www.eosx.io/",
-            "standard": ""
+            "name": "EOSx",
+            "url": "https://www.eosx.io/"            
         }
     ],
     "extra": {

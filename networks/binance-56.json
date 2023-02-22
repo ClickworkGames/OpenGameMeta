@@ -5,8 +5,8 @@
     "chain": "BSC",
     "chainId": 56,
     "networkId": 56,  
-    "icon": "binance",
-    "rpc": [
+    "icon": "https://cdn.superb.games/bnb_bnb_logo_634b6ec556.png?format=png&quality=100&height=150",
+    "rpc": [        
         "https://bsc-dataseed1.binance.org",
         "https://bsc-dataseed2.binance.org",
         "https://bsc-dataseed3.binance.org",
@@ -19,7 +19,8 @@
         "https://bsc-dataseed2.ninicoin.io",
         "https://bsc-dataseed3.ninicoin.io",
         "https://bsc-dataseed4.ninicoin.io",
-        "wss://bsc-ws-node.nariox.org"
+        "wss://bsc-ws-node.nariox.org",
+        "https://rpc.ankr.com/bsc"
     ],  
     "nativeCurrency": {
         "name": "Binance Chain Native Token",
@@ -28,9 +29,8 @@
         }, 
     "explorers": [
         {
-            "name": "bscscan",
-            "url": "https://bscscan.com",
-            "standard": "EIP3091"
+            "name": "BSCscan",
+            "url": "https://bscscan.com"            
         }
     ],
     "extra": {

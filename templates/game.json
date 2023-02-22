@@ -1,4 +1,5 @@
 {
+    "id": "slug-filename",
     "name": "",
     "description": "",
     "icon": "",
@@ -37,5 +38,10 @@
         "superb": "",
         "twitch": "",
         "lens": ""
-    }       
+    },
+    "extra": {        
+        "whitepaper": "",
+        "litepaper": "",
+        "documentation": ""        
+    }
   }

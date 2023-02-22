@@ -1,4 +1,5 @@
 {
+    "id": "illuvium",
     "name": "Illuvium",
     "description": "Illuvium is an open-world exploration, monster-collecting, and autobattle game.",
     "icon": "https://web-illuvium-static.s3.us-east-2.amazonaws.com/img/illuvium.svg",

@@ -16,9 +16,8 @@
     }, 
     "explorers": [
         {
-        "name": "",
-        "url": "",
-        "standard": "optional"
+            "name": "",
+            "url": ""
         }
     ],
     "extra": {

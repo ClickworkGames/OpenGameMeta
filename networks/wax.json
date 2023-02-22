@@ -5,7 +5,7 @@
     "chain": "WAX",
     "chainId": "1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4",
     "networkId": "1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4",  
-    "icon": "wax",
+    "icon": "https://cdn.superb.games/wax_waxp_logo_4388651092.png?format=png&quality=100&height=150",
     "rpc": [
         "https://wax.dfuse.eosnation.io",
         "https://wax.eosdac.io/",
@@ -20,8 +20,7 @@
     "explorers": [       
         {
             "name": "eosx",
-            "url": "https://wax.eosx.io/",
-            "standard": ""
+            "url": "https://wax.eosx.io/"            
         }
     ],
     "extra": {

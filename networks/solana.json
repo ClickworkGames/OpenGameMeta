@@ -5,7 +5,7 @@
     "chain": "SOL",
     "chainId": "mainnet-beta",
     "networkId": "mainnet-beta",  
-    "icon": "sol",
+    "icon": "https://cdn.superb.games/solana_sol_logo_2bead722c9.png?format=png&quality=100&height=150",
     "rpc": [      
         "https://api.mainnet-beta.solana.com/",
         "https://rpc.ankr.com/solana",
@@ -18,15 +18,15 @@
         }, 
     "explorers": [
         {
-            "name": "solana",
+            "name": "SolanaExplorer",
             "url": "https://explorer.solana.com/"            
         },
         {
-            "name": "solanabeach",
+            "name": "SolanaBeach",
             "url": "http://solanabeach.io/"            
         },        
         {
-            "name": "solscan",
+            "name": "Solscan",
             "url": "https://solscan.io/"            
         }
     ],
