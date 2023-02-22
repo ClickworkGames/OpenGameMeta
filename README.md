@@ -42,3 +42,10 @@ An example for The Smurfs Society is under “/networks/the-smurfs-society.json�
 When adding your game metadata and network information, please find the template in /template folder.
 
 When adding new game PR, please also add the game’s Terms of Conditions and Privacy Policy links, as well as Whitepaper/Litepaper if one exists. Additionally, please add your game type—free-to-play, DeFi, play-to-earn, etc.
+
+```mermaid
+graph LR
+A[Get base template] -- Categorise smart contracts --> C((Put #game#.json under /games))
+A[Get base template] --> B[Add/relate network] --> C
+C --> D{Create PR and \nadd extra info to boost verification}
+```
