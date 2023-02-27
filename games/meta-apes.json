@@ -1,31 +1,25 @@
 {
-    "id": "meta-apes",
-    "name": "Meta Apes",
-    "description": "Meta Apes is an addictive, fun, and all-encompassing MMO strategy game.",
-    "icon": "https://metaapesgame.com/_nuxt/img/logo.d041021.png",
-    "url": "https://metaapesgame.com/",
-    "aliases": [],  
-    "contracts": {
-        "binance-56": {
-            "assets": [
-                "0x5704075803A122Fc5afc8B60f07B84B77e065B5e"
-            ],
-            "tokens": [
-                {
-                    "symbol": "PEEL",
-                    "contract": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB"
-                }
-            ],
-            "rent": [],
-            "defi": [],
-            "other": [
-                "0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272",
-                "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
-                "0x4b136E073D469f240983ACe06e3c5f776FCE45Ea"
-            ]  
-        }        
-    },
-    "social": {        
-        "superb": "https://superb.games/games/meta-apes"        
+  "id": "meta-apes",
+  "name": "Meta Apes",
+  "description": "Meta Apes is an addictive, fun, and all-encompassing MMO strategy game.",
+  "icon": "https://metaapesgame.com/_nuxt/img/logo.d041021.png",
+  "url": "https://metaapesgame.com/",
+  "aliases": [],
+  "contracts": {
+    "binance-56": {
+      "assets": ["0x5704075803A122Fc5afc8B60f07B84B77e065B5e"],
+      "tokens": [
+        {
+          "symbol": "PEEL",
+          "contract": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB"
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": ["0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272", "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB", "0x4b136E073D469f240983ACe06e3c5f776FCE45Ea"]
     }
+  },
+  "social": {
+    "superb": "https://superb.games/games/meta-apes"
+  }
 }

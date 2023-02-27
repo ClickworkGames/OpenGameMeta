@@ -1,54 +1,52 @@
 {
-    "id": "planet-ix",
-    "name": "Planet IX",
-    "description": "Help restore a fallen planet to its former glory in this NFT-based land strategy game.",
-    "icon": "https://cdn.superb.games/Planet_IX_logo_255b13f7a2.png?format=webp&quality=100&height=185",
-    "url": "https://planetix.com/",
-    "aliases": [
-        "https://missioncontrol.planetix.com/"
-    ],  
-    "contracts": {       
-        "polygon-137": {
-            "assets": [
-                "0xB2435253C71FcA27bE41206EB2793E44e1Df6b6D",
-                "0x24CfF55d808fD10A1E730B86037760E57eCAF549",
-                "0xba6666B118f8303F990f3519DF07e160227cCE87",
-                "0x3376C61c450359d402F07909Bda979a4c0e6c32F"
-            ],
-            "tokens": [               
-                {
-                    "symbol": "IXT",
-                    "contract": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE"
-                }
-            ],
-            "rent": [],
-            "defi": [],
-            "other": [
-                "0x206B83FC7FD1250FC30A6A1e51E13277843cDA79",
-                "0x9AfB93F1E6D9b13546C4050BA39f0B48a4FB13A7",
-                "0x5A98E7cE0F72995fdc13D91255443F374c1299A6",
-                "0x87a016Ae5A52688a60415036D45191e632d5D403",
-                "0xDcE37f71D193026a4E7b61fF14B34075858b6F84",
-                "0x06343BCC479326b1F180c2C249605ba35858Fd80",
-                "0x6aB819382A03D0DF86A2b95E2CD550Cd4148d34d",
-                "0x6Caeb550e7f55BcC2Cb7A9314db5AC93Fb060574",
-                "0x2929Bc847F2284bf73ba53BB6A89818Cdb486c16",
-                "0x08971219534e1F8B6e4Afb2bf4A5Cf3929A141b1",
-                "0x7D0495D8a918Fb9aA02feA8D23c970d5933bD793",
-                "0xc4c3956732A5d8EdA6C0163C174e413cB1CaD1dc",
-                "0x0B8738735c72BE95Fe5f5636B1807CAB8C9DddD8",
-                "0xcB985163ca943FE6382a4165a762b38809Ea7Ff8",
-                "0x87277D6676cD567DFB5536E30146Cd54815f0C53",
-                "0x5cb9FcD65cfe3EEFDE88a7084caF2625d516BDD0",
-                "0xB030dA155b6F3e67921157Ec7793EDF3e407a55B",
-                "0xE23B62Ead7CF4334058159734f76719BBCcBc858",
-                "0x773895915168137Be0C8dCbd6fd7E44e7cc9d3dB",
-                "0xf4c89Cc6Cf4FA2097634ee0D17a26379375b16ED",
-                "0x245755B57c16eC301e50D3B84fB12485f7E7860b"
-            ]  
-        }        
-    },
-    "social": {        
-        "superb": "https://superb.games/games/planet-ix"        
+  "id": "planet-ix",
+  "name": "Planet IX",
+  "description": "Help restore a fallen planet to its former glory in this NFT-based land strategy game.",
+  "icon": "https://cdn.superb.games/Planet_IX_logo_255b13f7a2.png?format=webp&quality=100&height=185",
+  "url": "https://planetix.com/",
+  "aliases": ["https://missioncontrol.planetix.com/"],
+  "contracts": {
+    "polygon-137": {
+      "assets": [
+        "0xB2435253C71FcA27bE41206EB2793E44e1Df6b6D",
+        "0x24CfF55d808fD10A1E730B86037760E57eCAF549",
+        "0xba6666B118f8303F990f3519DF07e160227cCE87",
+        "0x3376C61c450359d402F07909Bda979a4c0e6c32F"
+      ],
+      "tokens": [
+        {
+          "symbol": "IXT",
+          "contract": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE"
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": [
+        "0x206B83FC7FD1250FC30A6A1e51E13277843cDA79",
+        "0x9AfB93F1E6D9b13546C4050BA39f0B48a4FB13A7",
+        "0x5A98E7cE0F72995fdc13D91255443F374c1299A6",
+        "0x87a016Ae5A52688a60415036D45191e632d5D403",
+        "0xDcE37f71D193026a4E7b61fF14B34075858b6F84",
+        "0x06343BCC479326b1F180c2C249605ba35858Fd80",
+        "0x6aB819382A03D0DF86A2b95E2CD550Cd4148d34d",
+        "0x6Caeb550e7f55BcC2Cb7A9314db5AC93Fb060574",
+        "0x2929Bc847F2284bf73ba53BB6A89818Cdb486c16",
+        "0x08971219534e1F8B6e4Afb2bf4A5Cf3929A141b1",
+        "0x7D0495D8a918Fb9aA02feA8D23c970d5933bD793",
+        "0xc4c3956732A5d8EdA6C0163C174e413cB1CaD1dc",
+        "0x0B8738735c72BE95Fe5f5636B1807CAB8C9DddD8",
+        "0xcB985163ca943FE6382a4165a762b38809Ea7Ff8",
+        "0x87277D6676cD567DFB5536E30146Cd54815f0C53",
+        "0x5cb9FcD65cfe3EEFDE88a7084caF2625d516BDD0",
+        "0xB030dA155b6F3e67921157Ec7793EDF3e407a55B",
+        "0xE23B62Ead7CF4334058159734f76719BBCcBc858",
+        "0x773895915168137Be0C8dCbd6fd7E44e7cc9d3dB",
+        "0xf4c89Cc6Cf4FA2097634ee0D17a26379375b16ED",
+        "0x245755B57c16eC301e50D3B84fB12485f7E7860b"
+      ]
     }
+  },
+  "social": {
+    "superb": "https://superb.games/games/planet-ix"
+  }
 }

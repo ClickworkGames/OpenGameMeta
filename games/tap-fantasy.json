@@ -1,53 +1,49 @@
 {
-    "id": "tap-fantasy",
-    "name": "Tap Fantasy",
-    "description": "Tap Fantasy is an extremely popular Web3 game where players explore the magical land of Odom, as well as earn based on their own creativity.",
-    "icon": "https://cdn.superb.games/Tap_Fantasy_icon_3c4d6ec951.png?format=webp&quality=100&height=185",
-    "url": "https://tapfantasy.io/",
-    "aliases": [
-        "https://game.tapfantasy.io/"
-    ],  
-    "contracts": {
-        "binance-56": {
-            "assets": [
-                "0xd7C79AbEb8d8B21e7638A8aADfdcC1438d24B483"
-            ],
-            "tokens": [
-                {
-                    "symbol": "TAP",
-                    "contract": "0x35bEdBF9291b22218a0dA863170dcC9329Ef2563"
-                },
-                {
-                    "symbol": "MC",
-                    "contract": "0x59C49B54D4425C7fF1E49f40958a14d48cC87c26"
-                },
-                {
-                    "symbol": "GOLD",
-                    "contract": "0xbf3BF5975B6da4eb5DA78C3796b64eDd19E8c92b"
-                }                                        
-            ],
-            "rent": [],
-            "defi": [],
-            "other": [
-                "0x69f08d3e1DB67352a4b271F3ecBaE81eA27fFbD3",
-                "0x0585f2386f0EbEc3965DAD9328f21b5FA2FF59A6",
-                "0x9b7778aC51F1152914dd97c1deAD4BBe447F4D64",
-                "0x20Af748BEf9FF8A31394113643883f0D8A5E1812",
-                "0x321845702AeaB23d68C7891BA4A6CAF4A28DaF78",
-                "0x71e0673dD49F9359E87FB768458903A176f287f6",
-                "0xA03F601245D81bd4D52BBcd7e59937e549C4D883",
-                "0xD6D30F5abBDa1907f205804DdeB67b33A557Bd8E",
-                "0xc6BB2dC4052774fe20f25f378ED6dA629DfeE7De",
-                "0x8250364cfA67Dc26430018aB4eA9DB70D1d4C5Cf",
-                "0x91884412BfAac65F9F3992dDB96f7d213aB72F0A",
-                "0x07e87369Db2D6b660064358f24FE45CB748EA4D3",
-                "0x61aE0dD4b193f24CEA1A2e84Ad1B1728d8B13D44",
-                "0xE82DD6263593A29F6587a51753804f09882fdf6f",
-                "0xABCd29E6d9E7Efc3422b011B705C3Fda83Df8657"
-            ]  
+  "id": "tap-fantasy",
+  "name": "Tap Fantasy",
+  "description": "Tap Fantasy is an extremely popular Web3 game where players explore the magical land of Odom, as well as earn based on their own creativity.",
+  "icon": "https://cdn.superb.games/Tap_Fantasy_icon_3c4d6ec951.png?format=webp&quality=100&height=185",
+  "url": "https://tapfantasy.io/",
+  "aliases": ["https://game.tapfantasy.io/"],
+  "contracts": {
+    "binance-56": {
+      "assets": ["0xd7C79AbEb8d8B21e7638A8aADfdcC1438d24B483"],
+      "tokens": [
+        {
+          "symbol": "TAP",
+          "contract": "0x35bEdBF9291b22218a0dA863170dcC9329Ef2563"
+        },
+        {
+          "symbol": "MC",
+          "contract": "0x59C49B54D4425C7fF1E49f40958a14d48cC87c26"
+        },
+        {
+          "symbol": "GOLD",
+          "contract": "0xbf3BF5975B6da4eb5DA78C3796b64eDd19E8c92b"
         }
-    },
-    "social": {        
-        "superb": "https://superb.games/games/tap-fantasy"        
+      ],
+      "rent": [],
+      "defi": [],
+      "other": [
+        "0x69f08d3e1DB67352a4b271F3ecBaE81eA27fFbD3",
+        "0x0585f2386f0EbEc3965DAD9328f21b5FA2FF59A6",
+        "0x9b7778aC51F1152914dd97c1deAD4BBe447F4D64",
+        "0x20Af748BEf9FF8A31394113643883f0D8A5E1812",
+        "0x321845702AeaB23d68C7891BA4A6CAF4A28DaF78",
+        "0x71e0673dD49F9359E87FB768458903A176f287f6",
+        "0xA03F601245D81bd4D52BBcd7e59937e549C4D883",
+        "0xD6D30F5abBDa1907f205804DdeB67b33A557Bd8E",
+        "0xc6BB2dC4052774fe20f25f378ED6dA629DfeE7De",
+        "0x8250364cfA67Dc26430018aB4eA9DB70D1d4C5Cf",
+        "0x91884412BfAac65F9F3992dDB96f7d213aB72F0A",
+        "0x07e87369Db2D6b660064358f24FE45CB748EA4D3",
+        "0x61aE0dD4b193f24CEA1A2e84Ad1B1728d8B13D44",
+        "0xE82DD6263593A29F6587a51753804f09882fdf6f",
+        "0xABCd29E6d9E7Efc3422b011B705C3Fda83Df8657"
+      ]
     }
+  },
+  "social": {
+    "superb": "https://superb.games/games/tap-fantasy"
+  }
 }

@@ -1,34 +1,32 @@
 {
-    "id": "playmining",
-    "name": "PlayMining",
-    "description": "PlayMining is an NFT gaming platform with six individual games.",
-    "icon": "https://cdn.superb.games/Play_Mining_icon_7191e8bafa.png?format=webp&quality=100&height=185",
-    "url": "https://playmining.com/",
-    "aliases": [
-        "https://jobtribes.playmining.com/",
-        "https://game.cookinburger.com/",
-        "https://kamuiverse.com/",
-        "https://luckyfarmer.playmining.com/",
-        "https://dragonramen.flypenguin-games.com/",
-        "https://graffitiracer.playmining.com/",
-    ],  
-    "contracts": {
-        "ethereum-1": {
-            "assets": [],
-            "tokens": [
-                {
-                    "symbol": "DEP",
-                    "contract": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163"
-                }                         
-            ],
-            "rent": [],
-            "defi": [],
-            "other": [
-                "0xDe6dEe53E99F2Ef914AD79575B83079892cd0543"
-            ]  
-        }        
-    },
-    "social": {        
-        "superb": "https://superb.games/games/PlayMining"        
+  "id": "playmining",
+  "name": "PlayMining",
+  "description": "PlayMining is an NFT gaming platform with six individual games.",
+  "icon": "https://cdn.superb.games/Play_Mining_icon_7191e8bafa.png?format=webp&quality=100&height=185",
+  "url": "https://playmining.com/",
+  "aliases": [
+    "https://jobtribes.playmining.com/",
+    "https://game.cookinburger.com/",
+    "https://kamuiverse.com/",
+    "https://luckyfarmer.playmining.com/",
+    "https://dragonramen.flypenguin-games.com/",
+    "https://graffitiracer.playmining.com/"
+  ],
+  "contracts": {
+    "ethereum-1": {
+      "assets": [],
+      "tokens": [
+        {
+          "symbol": "DEP",
+          "contract": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163"
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": ["0xDe6dEe53E99F2Ef914AD79575B83079892cd0543"]
     }
+  },
+  "social": {
+    "superb": "https://superb.games/games/PlayMining"
+  }
 }

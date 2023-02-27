@@ -1,51 +1,45 @@
 {
-    "id": "splinterlands",
-    "name": "Splinterlands",
-    "description": "Since the days of the Splintering, the face of the world has been shaped by blood and power. As factions battle for control, primal energies are harnessed and unleashed.",
-    "icon": "https://cdn.superb.games/splinterlands_logo_5399d5f4fd.png?format=webp&quality=100&height=185",
-    "url": "https://splinterlands.com/",
-    "aliases": [
-        "https://next.splinterlands.com/"
-    ],  
-    "contracts": {       
-        "ethereum-1": {
-            "assets": [
-                "0xe3870569F9E1836960bF30B5A45FC743CEf0aB0E"
-            ],
-            "tokens": [               
-                {
-                    "symbol": "SPS",
-                    "contract": "0x00813E3421E1367353BfE7615c7f7f133C89df74"
-                },
-                {
-                    "symbol": "DEC",
-                    "contract": "0x9393fdc77090F31c7db989390D43F454B1A6E7F3"
-                }
-            ],
-            "rent": [],
-            "defi": [],
-            "other": []  
+  "id": "splinterlands",
+  "name": "Splinterlands",
+  "description": "Since the days of the Splintering, the face of the world has been shaped by blood and power. As factions battle for control, primal energies are harnessed and unleashed.",
+  "icon": "https://cdn.superb.games/splinterlands_logo_5399d5f4fd.png?format=webp&quality=100&height=185",
+  "url": "https://splinterlands.com/",
+  "aliases": ["https://next.splinterlands.com/"],
+  "contracts": {
+    "ethereum-1": {
+      "assets": ["0xe3870569F9E1836960bF30B5A45FC743CEf0aB0E"],
+      "tokens": [
+        {
+          "symbol": "SPS",
+          "contract": "0x00813E3421E1367353BfE7615c7f7f133C89df74"
         },
-        "binance-56": {
-            "assets": [],
-            "tokens": [               
-                {
-                    "symbol": "SPS",
-                    "contract": "0x1633b7157e7638c4d6593436111bf125ee74703f"
-                },
-                {
-                    "symbol": "DEC",
-                    "contract": "0xE9D7023f2132D55cbd4Ee1f78273CB7a3e74F10A"
-                }
-            ],
-            "rent": [],
-            "defi": [],
-            "other": []  
-        }        
+        {
+          "symbol": "DEC",
+          "contract": "0x9393fdc77090F31c7db989390D43F454B1A6E7F3"
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
     },
-    "social": {        
-        "superb": "https://superb.games/games/splinterlands"        
+    "binance-56": {
+      "assets": [],
+      "tokens": [
+        {
+          "symbol": "SPS",
+          "contract": "0x1633b7157e7638c4d6593436111bf125ee74703f"
+        },
+        {
+          "symbol": "DEC",
+          "contract": "0xE9D7023f2132D55cbd4Ee1f78273CB7a3e74F10A"
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
     }
+  },
+  "social": {
+    "superb": "https://superb.games/games/splinterlands"
+  }
 }
-
-
