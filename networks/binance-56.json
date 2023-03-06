@@ -1,8 +1,9 @@
 {
     "id": "binance-56",
     "module": "evm",
-    "name": "Binance Smart Chain Mainnet",
-    "chain": "BSC",
+    "name": "BNB Smart Chain",
+    "chain": "bsc",
+    "network": "binance",
     "chainId": 56,
     "networkId": 56,  
     "icon": "https://cdn.superb.games/bnb_bnb_logo_634b6ec556.png?format=png&quality=100&height=150",
@@ -29,13 +30,18 @@
         }, 
     "explorers": [
         {
-            "name": "BSCscan",
+            "name": "BscScan",
             "url": "https://bscscan.com"            
         }
-    ],
+    ],    
     "extra": {
         "infoURL": "https://www.binance.org",
         "shortName": "bnb",
-        "slip44": 714       
-    }
+        "slip44": 714,
+        "multicall3": {       
+            "address": "0xca11bde05977b3631167028862be2a173976ca11",
+            "blockCreated": 15921452         
+        }
+    },
+    "testnet": false
 }

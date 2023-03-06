@@ -1,20 +1,17 @@
 {
-  "id": "polygon-137",
+  "id": "mumbai-80001",
   "module": "evm",
-  "name": "Polygon Mainnet",
-  "chain": "polygon",
-  "network": "polygon",
-  "chainId": 137,
-  "networkId": 137,  
+  "name": "Polygon Mumbai",
+  "chain": "mumbai",
+  "network": "mumbai",
+  "chainId": 80001,
+  "networkId": 80001,  
   "icon": "https://cdn.superb.games/polygon_matic_logo_a2a25b07ef.png?format=png&quality=100&height=150",
   "rpc": [
-    "https://polygon-rpc.com/",
-    "https://rpc-mainnet.matic.network",
-    "https://matic-mainnet.chainstacklabs.com",
-    "https://rpc-mainnet.maticvigil.com",
-    "https://rpc-mainnet.matic.quiknode.pro",
-    "https://matic-mainnet-full-rpc.bwarelabs.com",
-    "https://polygon-bor.publicnode.com"
+    "https://matic-mumbai.chainstacklabs.com",
+    "https://polygon-mumbai.g.alchemy.com/v2",
+    "https://polygon-mumbai.infura.io/v3",
+    "wss://polygon-mumbai.g.alchemy.com/v2"    
   ],  
   "nativeCurrency": {
     "name": "MATIC",
@@ -24,7 +21,7 @@
   "explorers": [
     {
       "name": "PolygonScan",
-      "url": "https://polygonscan.com"         
+      "url": "https://mumbai.polygonscan.com"      
     }
   ],
   "extra": {
@@ -36,5 +33,5 @@
       "blockCreated": 25770160         
     }
   },
-  "testnet": false
+  "testnet": true
 }

@@ -1,0 +1,36 @@
+{
+  "id": "sepolia-11155111",
+  "module": "evm",
+  "name": "Sepolia",
+  "chain": "eth",
+  "network": "sepolia",
+  "chainId": 11155111,
+  "networkId": 11155111,  
+  "icon": "https://cdn.superb.games/ethereum_eth_logo_2cf8146512.png?format=png&quality=100&height=150",
+  "rpc": [    
+    "https://rpc.sepolia.org",
+    "https://sepolia.infura.io/v3",    
+    "wss://sepolia.infura.io/ws/v3"
+  ],    
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "SEP",
+    "decimals": 18
+  },  
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io"      
+    }
+  ],
+  "extra": {
+    "infoURL": "https://ethereum.org",
+    "shortName": "eth",
+    "slip44": 60,       
+    "multicall3": {       
+      "address": "0xca11bde05977b3631167028862be2a173976ca11",
+      "blockCreated": 6507670         
+    }
+  },
+  "testnet": true
+}

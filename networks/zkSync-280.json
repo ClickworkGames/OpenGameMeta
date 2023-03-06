@@ -1,0 +1,30 @@
+{
+  "id": "zkSync-280",
+  "module": "evm",
+  "name": "zkSync Testnet",
+  "chain": "eth",
+  "network": "zksync-testnet",
+  "chainId": 280,
+  "networkId": 280,  
+  "icon": "https://cdn.superb.games/ethereum_eth_logo_2cf8146512.png?format=png&quality=100&height=150",
+  "rpc": [    
+    "https://zksync2-testnet.zksync.dev",
+    "wss://zksync2-testnet.zksync.dev/ws"    
+  ],    
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },  
+  "explorers": [
+    {
+      "name": "zkExplorer",
+      "url": "https://goerli.explorer.zksync.io"      
+    }
+  ],  
+  "extra": {
+    "infoURL": "https://zksync.org",
+    "shortName": "eth"    
+  },
+  "testnet": true
+}

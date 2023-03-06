@@ -1,41 +1,41 @@
 {
-  "id": "ethereum-1",
+  "id": "goerli-5",
   "module": "evm",
-  "name": "Ethereum Mainnet",
+  "name": "Goerli",
   "chain": "eth",
-  "network": "ethereum",
-  "chainId": 1,
-  "networkId": 1,  
+  "network": "goerli",
+  "chainId": 5,
+  "networkId": 5,  
   "icon": "https://cdn.superb.games/ethereum_eth_logo_2cf8146512.png?format=png&quality=100&height=150",
   "rpc": [    
-    "https://rpc.ankr.com/eth",
-    "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
-    "wss://mainnet.infura.io/ws/v3/${INFURA_API_KEY}",
-    "https://cloudflare-eth.com"
+    "https://rpc.ankr.com/eth_goerli",
+    "https://eth-goerli.g.alchemy.com/v2",    
+    "https://goerli.infura.io/v3",
+    "wss://goerli.infura.io/ws/v3"
   ],    
   "nativeCurrency": {
-    "name": "Ether",
+    "name": "Goerli Ether",
     "symbol": "ETH",
     "decimals": 18
   },  
   "explorers": [
     {
       "name": "Etherscan",
-      "url": "https://etherscan.io"      
+      "url": "https://goerli.etherscan.io"      
     }
-  ],  
+  ],
   "extra": {
     "infoURL": "https://ethereum.org",
     "shortName": "eth",
-    "slip44": 60,
+    "slip44": 60,    
     "ens": {
       "registry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
-      "resolver": "0x74E20Bd2A1fE0cdbe45b9A1d89cb7e0a45b36376"
+      "resolver": "0x687c30Cc44bFA39A1449e86E172BF002E7b3f0b0"
     },
     "multicall3": {       
       "address": "0xca11bde05977b3631167028862be2a173976ca11",
-      "blockCreated": 14353601         
+      "blockCreated": 6507670         
     }
   },
-  "testnet": false
+  "testnet": true
 }
