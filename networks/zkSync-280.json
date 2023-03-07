@@ -1,5 +1,5 @@
 {
-  "id": "zkSync-280",
+  "id": "zksync-280",
   "module": "evm",
   "name": "zkSync Testnet",
   "chain": "eth",
