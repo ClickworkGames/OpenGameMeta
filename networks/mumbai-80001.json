@@ -5,32 +5,32 @@
   "chain": "mumbai",
   "network": "mumbai",
   "chainId": 80001,
-  "networkId": 80001,  
+  "networkId": 80001,
   "icon": "https://cdn.superb.games/polygon_matic_logo_a2a25b07ef.png?format=png&quality=100&height=150",
   "rpc": [
     "https://matic-mumbai.chainstacklabs.com",
     "https://polygon-mumbai.g.alchemy.com/v2",
     "https://polygon-mumbai.infura.io/v3",
-    "wss://polygon-mumbai.g.alchemy.com/v2"    
-  ],  
+    "wss://polygon-mumbai.g.alchemy.com/v2"
+  ],
   "nativeCurrency": {
     "name": "MATIC",
     "symbol": "MATIC",
     "decimals": 18
-  }, 
+  },
   "explorers": [
     {
       "name": "PolygonScan",
-      "url": "https://mumbai.polygonscan.com"      
+      "url": "https://mumbai.polygonscan.com"
     }
   ],
   "extra": {
     "infoURL": "https://polygon.technology/",
     "shortName": "matic",
     "slip44": 966,
-    "multicall3": {       
+    "multicall3": {
       "address": "0xca11bde05977b3631167028862be2a173976ca11",
-      "blockCreated": 25770160         
+      "blockCreated": 25770160
     }
   },
   "testnet": true
