@@ -5,7 +5,8 @@
   "chain": "eth",
   "network": "goerli",
   "chainId": 5,
-  "networkId": 5,  
+  "networkId": 5, 
+  "aliases": ["goerli", "eth-goerli"], 
   "icon": "https://cdn.superb.games/ethereum_eth_logo_2cf8146512.png?format=png&quality=100&height=150",
   "rpc": [    
     "https://rpc.ankr.com/eth_goerli",

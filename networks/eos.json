@@ -5,7 +5,8 @@
     "chain": "eos",
     "network": "eos",
     "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
-    "networkId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",  
+    "networkId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906", 
+    "aliases": ["eos-mainnet"], 
     "icon": "https://cdn.superb.games/eos_eos_logo_ccb0edca02.png?format=png&quality=100&height=150",
     "rpc": [
         "https://eos.greymass.com",

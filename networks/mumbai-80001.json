@@ -6,6 +6,7 @@
   "network": "mumbai",
   "chainId": 80001,
   "networkId": 80001,
+  "aliases": ["mumbai", "matic-mumbai", "polygon-mumbai", "maticmum"],
   "icon": "https://cdn.superb.games/polygon_matic_logo_a2a25b07ef.png?format=png&quality=100&height=150",
   "rpc": [
     "https://matic-mumbai.chainstacklabs.com",

@@ -5,7 +5,8 @@
   "chain": "eth",
   "network": "sepolia",
   "chainId": 11155111,
-  "networkId": 11155111,  
+  "networkId": 11155111, 
+  "aliases": ["sepolia"], 
   "icon": "https://cdn.superb.games/ethereum_eth_logo_2cf8146512.png?format=png&quality=100&height=150",
   "rpc": [    
     "https://rpc.sepolia.org",

@@ -6,6 +6,7 @@
   "network": "base-goerli",
   "chainId": 84531,
   "networkId": 84531,  
+  "aliases": ["base-goerli"],
   "icon": "https://cdn.superb.games/ethereum_eth_logo_2cf8146512.png?format=png&quality=100&height=150",
   "rpc": [    
     "https://goerli.base.org"    

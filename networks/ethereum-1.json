@@ -5,7 +5,8 @@
   "chain": "eth",
   "network": "ethereum",
   "chainId": 1,
-  "networkId": 1,  
+  "networkId": 1, 
+  "aliases": ["ethereum", "mainnet", "homestead"], 
   "icon": "https://cdn.superb.games/ethereum_eth_logo_2cf8146512.png?format=png&quality=100&height=150",
   "rpc": [    
     "https://rpc.ankr.com/eth",

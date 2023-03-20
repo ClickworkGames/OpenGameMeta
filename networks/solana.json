@@ -5,7 +5,8 @@
     "chain": "sol",
     "network": "solana",
     "chainId": "mainnet-beta",
-    "networkId": "mainnet-beta",  
+    "networkId": "mainnet-beta", 
+    "aliases": ["solana", "mainnet-beta"], 
     "icon": "https://cdn.superb.games/solana_sol_logo_2bead722c9.png?format=png&quality=100&height=150",
     "rpc": [      
         "https://api.mainnet-beta.solana.com/",

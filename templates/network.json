@@ -4,7 +4,8 @@
     "name": "",
     "chain": "optional",
     "chainId": 0|optional,
-    "networkId": 0|optional,  
+    "networkId": 0|optional, 
+    "aliases": [],  
     "icon": "",
     "rpc": [
         ""      
@@ -22,6 +23,15 @@
     ],
     "extra": {
         "infoURL": "Custom metadata under extra & other important to share information, also social media links",
-        "shortName": ""    
-    }
+        "shortName": "",
+        "ens": {
+            "registry": "",
+            "resolver": ""
+        }|optional,
+        "multicall3": {       
+            "address": "",
+            "blockCreated": 0         
+        }|optional
+    },
+    "testnet": false
 }
