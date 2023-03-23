@@ -1,0 +1,30 @@
+{
+  "id": "sunflower-land",
+  "name": "Sunflower Land",
+  "description": "Sunflower Land is a blockchain-first NFT-farming game. Farm, harvest, craft, trade, sell, and enjoy!",
+  "icon": "https://cdn.superb.games/Sunflower_Land_poster_de1fc23928.webp?format=webp&quality=100&height=185",
+  "url": "https://sunflower-land.com/",
+  "aliases": [],
+  "contracts": {
+    "polygon-137": {
+      "assets": [
+        "0x22d5f9B75c524Fec1D6619787e582644CD4D7422",
+        "0x624E4fa6980Afcf8EA27BFe08e2fB5979b64DF1C",
+        "0x4bb5b2461e9Ef782152c3a96698b2a4cF55B6162",
+        "0x2B4A66557A79263275826AD31a4cDDc2789334bD"
+      ],
+      "tokens": [
+        {
+          "symbol": "SFL",
+          "contract": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05"
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
+    }
+  },
+  "social": {
+    "superb": "https://superb.games/games/sunflower-land"
+  }
+}
