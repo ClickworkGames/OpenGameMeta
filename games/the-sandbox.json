@@ -1,0 +1,43 @@
+{
+  "id": "the-sandbox",
+  "name": "The Sandbox",
+  "description": "The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain.",
+  "icon": "https://cdn.superb.games/The_Sandbox_Cover2_781c4e26ec.png?format=webp&quality=100&height=185",
+  "url": "https://www.sandbox.game/",
+  "aliases": [],
+  "contracts": {
+    "polygon-137": {
+      "assets": [
+        "0xa342f5D851E866E18ff98F351f2c6637f4478dB5",
+        "0x9d305a42A3975Ee4c1C57555BeD5919889DCE63F"
+      ],
+      "tokens": [
+        {
+          "symbol": "SAND",
+          "contract": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683"
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
+    },
+    "ethereum-1": {
+      "assets": [
+        "0xa342f5D851E866E18ff98F351f2c6637f4478dB5",
+        "0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38"
+      ],
+      "tokens": [
+        {
+          "symbol": "SAND",
+          "contract": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
+    }
+  },
+  "social": {
+    "superb": "https://superb.games/games/the-sandbox"
+  }
+}
