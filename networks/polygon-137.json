@@ -6,7 +6,7 @@
   "network": "polygon",
   "chainId": 137,
   "networkId": 137, 
-  "aliases": ["polygon", "matic-mainnet", "polygon-bor", "matic"], 
+  "aliases": ["polygon", "matic-mainnet", "polygon-bor", "matic", "polygon-pos"], 
   "icon": "https://cdn.superb.games/polygon_matic_logo_a2a25b07ef.png?format=png&quality=100&height=150",
   "rpc": [
     "https://polygon-rpc.com/",

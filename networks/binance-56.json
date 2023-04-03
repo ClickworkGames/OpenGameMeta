@@ -6,7 +6,7 @@
     "network": "binance",
     "chainId": 56,
     "networkId": 56,  
-    "aliases": ["binance", "bsc", "bnb"],
+    "aliases": ["binance", "bsc", "bnb", "binance-smart-chain"],
     "icon": "https://cdn.superb.games/bnb_bnb_logo_634b6ec556.png?format=png&quality=100&height=150",
     "rpc": [        
         "https://bsc-dataseed1.binance.org",
