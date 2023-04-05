@@ -27,7 +27,8 @@
     ],
     "extra": {
         "infoURL": "https://www.wax.io/",
-        "shortName": "wax"           
+        "shortName": "wax",
+        "superb-support": []        
     },
     "testnet": false
 }

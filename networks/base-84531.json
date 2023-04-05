@@ -24,7 +24,8 @@
   ],
   "extra": {
     "infoURL": "https://base.org",
-    "shortName": "eth"  
+    "shortName": "eth",
+    "superb-support": []
   },
   "testnet": true
 }

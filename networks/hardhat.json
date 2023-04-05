@@ -19,7 +19,8 @@
   "explorers": [],
   "extra": {
     "infoURL": "https://ethereum.org",
-    "shortName": "eth"
+    "shortName": "eth",
+    "superb-support": []
   },
   "testnet": true
 }

@@ -25,7 +25,8 @@
   ],  
   "extra": {
     "infoURL": "https://zksync.org",
-    "shortName": "eth"    
+    "shortName": "eth",
+    "superb-support": []
   },
   "testnet": false
 }

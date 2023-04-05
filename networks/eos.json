@@ -32,7 +32,8 @@
     ],
     "extra": {
         "infoURL": "https://eos.io/",
-        "shortName": "eos"           
+        "shortName": "eos",
+        "superb-support": []          
     },
     "testnet": false
 }
