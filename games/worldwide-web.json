@@ -1,0 +1,22 @@
+{
+  "id": "worldwide-web",
+  "name": "Worldwide Web",
+  "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects.",
+  "icon": "https://cdn.superb.games/Worldwide_Webb_Cover_2eacd8695e.png?format=webp&quality=100&height=185",
+  "url": "https://beta.webb.blue/",
+  "aliases": [
+    "https://webb.game/"
+  ],
+  "contracts": {
+    "ethereum-1": {
+      "assets": ["0x0812074e395b711910F2fba9f129078918ADe855", "0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51"],
+      "tokens": [],
+      "rent": [],
+      "defi": [],
+      "other": []
+    }
+  },
+  "social": {
+    "superb": "https://superb.games/games/worldwide-web"
+  }
+}

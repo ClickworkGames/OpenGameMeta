@@ -1,0 +1,25 @@
+{
+  "id": "tiny-world",
+  "name": "Tiny World",
+  "description": "A Tiny World with huge adventures! Check out the Tiny World game platform.",
+  "icon": "https://cdn.superb.games/Tiny_World_poster_3fa95234c1.jpg?format=webp&quality=100&height=185",
+  "url": "https://app.tinyworlds.io/game/dashboard",
+  "aliases": ["https://tinyworlds.io/"],
+  "contracts": {
+    "binance-56": {
+      "assets": ["0xD80EdcF7C73B43852dA39497a6B5E9cbA1Edf39e"],
+      "tokens": [
+        {
+          "symbol": "TINC",
+          "contract": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e"
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
+    }
+  },
+  "social": {
+    "superb": "https://superb.games/games/tiny-world"
+  }
+}
