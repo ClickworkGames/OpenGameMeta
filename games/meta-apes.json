@@ -7,16 +7,31 @@
   "aliases": [],
   "contracts": {
     "binance-56": {
-      "assets": ["0x5704075803A122Fc5afc8B60f07B84B77e065B5e"],
+      "assets": [        
+        {
+          "contract": "0x5704075803A122Fc5afc8B60f07B84B77e065B5e",
+          "category": "Fighters",          
+          "tags": ["fighter", "mystery box", "skills"]
+        }
+      ],
       "tokens": [
         {
           "symbol": "PEEL",
-          "contract": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB"
+          "contract": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
+          "prices": {
+            "coinpaprika": "peel-meta-apes-peel",
+            "coinmarketcap": "meta-apes-peel",
+            "coingecko": "meta-apes-peel",
+            "mobula": "meta-apes-peel"
+          }
         }
       ],
       "rent": [],
       "defi": [],
-      "other": ["0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272", "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB", "0x4b136E073D469f240983ACe06e3c5f776FCE45Ea"]
+      "other": [
+        "0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272", 
+        "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB", 
+        "0x4b136E073D469f240983ACe06e3c5f776FCE45Ea"]
     }
   },
   "social": {

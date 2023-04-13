@@ -4,10 +4,18 @@
   "description": "Oath of Peak is an MMORPG with amazing visuals and endless rewards.",
   "icon": "https://cdn.superb.games/Oath_of_peak_poster_49f7705313.jpeg?format=webp&quality=100&height=185",
   "url": "https://yeehagames.com/game/oathofpeak",
-  "aliases": [],
+  "aliases": [
+    "https://yeehagames.com/"
+  ],
   "contracts": {
     "polygon-137": {
-      "assets": ["0x8fEf60F22bfc7654583D56439A7557E20030924f"],
+      "assets": [        
+        {
+          "contract": "0x8fEf60F22bfc7654583D56439A7557E20030924f",
+          "category": "Spirits",          
+          "tags": ["spirit", "beast", "genesis"]
+        }
+      ],
       "tokens": [],
       "rent": [],
       "defi": [],

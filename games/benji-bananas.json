@@ -7,15 +7,33 @@
   "aliases": [],
   "contracts": {
     "ethereum-1": {
-      "assets": ["0x5911a6DA952A9D1B67Be13cEcB389aD247420360"],
+      "assets": [
+        {
+          "contract": "0x5911a6DA952A9D1B67Be13cEcB389aD247420360",
+          "category": "Passes",          
+          "tags": ["membership", "pass"]        
+        }
+      ],
       "tokens": [
         {
           "symbol": "PRIMATE",
-          "contract": "0x46e98FFE40E408bA6412bEb670507e083C8B95ff"
+          "contract": "0x46e98FFE40E408bA6412bEb670507e083C8B95ff",
+          "prices": {
+            "coinpaprika": "primate-primate",
+            "coinmarketcap": "primate",
+            "coingecko": "primate",
+            "mobula": "primate"
+          }
         },
         {
           "symbol": "APE",
-          "contract": "0x4d224452801ACEd8B2F0aebE155379bb5D594381"
+          "contract": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+          "prices": {
+            "coinpaprika": "ape-apecoin",
+            "coinmarketcap": "apecoin-ape",
+            "coingecko": "apecoin",
+            "mobula": "apecoin"
+          }
         }
       ],
       "rent": [],
@@ -34,7 +52,13 @@
       "tokens": [
         {
           "symbol": "PRIMATE",
-          "contract": "0xA19863E302FD1B41276fCe5A48D9C511DBeEf34c"
+          "contract": "0xA19863E302FD1B41276fCe5A48D9C511DBeEf34c",
+          "prices": {
+            "coinpaprika": "primate-primate",
+            "coinmarketcap": "primate",
+            "coingecko": "primate",
+            "mobula": "primate"
+          }
         }
       ],
       "rent": [],
