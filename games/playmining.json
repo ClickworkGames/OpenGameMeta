@@ -18,7 +18,13 @@
       "tokens": [
         {
           "symbol": "DEP",
-          "contract": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163"
+          "contract": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
+          "prices": {
+            "coinpaprika": "dep-deapcoin",
+            "coinmarketcap": "deapcoin",
+            "coingecko": "deapcoin",
+            "mobula": ""
+          }
         }
       ],
       "rent": [],

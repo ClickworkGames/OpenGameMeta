@@ -8,13 +8,32 @@
   "contracts": {
     "polygon-137": {
       "assets": [
-        "0xa342f5D851E866E18ff98F351f2c6637f4478dB5",
-        "0x9d305a42A3975Ee4c1C57555BeD5919889DCE63F"
+        {
+          "contract": "0xa342f5D851E866E18ff98F351f2c6637f4478dB5",
+          "category": "Assets",          
+          "tags": ["sandbox", "assets"]
+        },
+        {
+          "contract": "0x9d305a42A3975Ee4c1C57555BeD5919889DCE63F",
+          "category": "Land",          
+          "tags": ["sandbox", "land"]
+        },
+        {
+          "contract": "0xa090e057a7b3b397efc0f3430659a05b6a41fa40",
+          "category": "Rabbids Lunar New Year Avatars",          
+          "tags": ["rabbids", "avatars"]
+        }
       ],
       "tokens": [
         {
           "symbol": "SAND",
-          "contract": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683"
+          "contract": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+          "prices": {
+            "coinpaprika": "sand-the-sandbox",
+            "coinmarketcap": "the-sandbox",
+            "coingecko": "the-sandbox",
+            "mobula": "the-sandbox"
+          }
         }
       ],
       "rent": [],
@@ -23,13 +42,27 @@
     },
     "ethereum-1": {
       "assets": [
-        "0xa342f5D851E866E18ff98F351f2c6637f4478dB5",
-        "0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38"
+        {
+          "contract": "0xa342f5D851E866E18ff98F351f2c6637f4478dB5",
+          "category": "Assets",          
+          "tags": ["sandbox", "assets"]
+        },
+        {
+          "contract": "0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38",
+          "category": "Land",          
+          "tags": ["sandbox", "land"]
+        }
       ],
       "tokens": [
         {
           "symbol": "SAND",
-          "contract": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+          "contract": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+          "prices": {
+            "coinpaprika": "sand-the-sandbox",
+            "coinmarketcap": "the-sandbox",
+            "coingecko": "the-sandbox",
+            "mobula": "the-sandbox"
+          }
         }
       ],
       "rent": [],

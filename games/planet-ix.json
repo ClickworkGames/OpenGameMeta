@@ -7,16 +7,38 @@
   "aliases": ["https://missioncontrol.planetix.com/"],
   "contracts": {
     "polygon-137": {
-      "assets": [
-        "0xB2435253C71FcA27bE41206EB2793E44e1Df6b6D",
-        "0x24CfF55d808fD10A1E730B86037760E57eCAF549",
-        "0xba6666B118f8303F990f3519DF07e160227cCE87",
-        "0x3376C61c450359d402F07909Bda979a4c0e6c32F"
+      "assets": [    
+        {
+          "contract": "0xB2435253C71FcA27bE41206EB2793E44e1Df6b6D",
+          "category": "Land",          
+          "tags": ["land", "parcel", "hexagonal", "pix"]
+        },
+        {
+          "contract": "0x24CfF55d808fD10A1E730B86037760E57eCAF549",
+          "category": "Landmark Relics",          
+          "tags": ["relics", "natural", "culture"]
+        },
+        {
+          "contract": "0xba6666B118f8303F990f3519DF07e160227cCE87",
+          "category": "Assets",          
+          "tags": ["assets"]
+        },
+        {
+          "contract": "0x3376C61c450359d402F07909Bda979a4c0e6c32F",
+          "category": "Gravity Grade",          
+          "tags": ["pack", "starter", "promotion"]
+        }
       ],
       "tokens": [
         {
           "symbol": "IXT",
-          "contract": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE"
+          "contract": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
+          "prices": {
+            "coinpaprika": "ixt-ix-token",
+            "coinmarketcap": "ix-token",
+            "coingecko": "ix-token",
+            "mobula": ""
+          }
         }
       ],
       "rent": [],

@@ -7,15 +7,33 @@
   "aliases": ["https://next.splinterlands.com/"],
   "contracts": {
     "ethereum-1": {
-      "assets": ["0xe3870569F9E1836960bF30B5A45FC743CEf0aB0E"],
+      "assets": [
+        {
+          "contract": "0xe3870569F9E1836960bF30B5A45FC743CEf0aB0E",
+          "category": "Cards",          
+          "tags": ["editions", "rewards", "promo", "cards"]
+        }
+      ],
       "tokens": [
         {
           "symbol": "SPS",
-          "contract": "0x00813E3421E1367353BfE7615c7f7f133C89df74"
+          "contract": "0x00813E3421E1367353BfE7615c7f7f133C89df74",
+          "prices": {
+            "coinpaprika": "sps-splintershards",
+            "coinmarketcap": "splintershards",
+            "coingecko": "splintershards",
+            "mobula": "splinterlands"
+          }
         },
         {
           "symbol": "DEC",
-          "contract": "0x9393fdc77090F31c7db989390D43F454B1A6E7F3"
+          "contract": "0x9393fdc77090F31c7db989390D43F454B1A6E7F3",
+          "prices": {
+            "coinpaprika": "dec-dark-energy-crystals",
+            "coinmarketcap": "dark-energy-crystals",
+            "coingecko": "dark-energy-crystals",
+            "mobula": "dark-energy-crystals"
+          }
         }
       ],
       "rent": [],
@@ -27,11 +45,23 @@
       "tokens": [
         {
           "symbol": "SPS",
-          "contract": "0x1633b7157e7638c4d6593436111bf125ee74703f"
+          "contract": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+          "prices": {
+            "coinpaprika": "dec-dark-energy-crystals",
+            "coinmarketcap": "dark-energy-crystals",
+            "coingecko": "dark-energy-crystals",
+            "mobula": "dark-energy-crystals"
+          }
         },
         {
           "symbol": "DEC",
-          "contract": "0xE9D7023f2132D55cbd4Ee1f78273CB7a3e74F10A"
+          "contract": "0xE9D7023f2132D55cbd4Ee1f78273CB7a3e74F10A",
+          "prices": {
+            "coinpaprika": "dec-dark-energy-crystals",
+            "coinmarketcap": "dark-energy-crystals",
+            "coingecko": "dark-energy-crystals",
+            "mobula": "dark-energy-crystals"
+          }
         }
       ],
       "rent": [],
