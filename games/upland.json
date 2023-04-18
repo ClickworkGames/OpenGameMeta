@@ -7,11 +7,35 @@
   "aliases": ["https://r.upland.me/", "https://play.upland.me/"],
   "contracts": {
     "wax": {
-      "assets": ["upland.cards"],
+      "assets": [        
+        {
+          "contract": "upland.cards",
+          "category": "Characters and landmarks",          
+          "tags": ["character", "landmark", "upland"],
+          "schemas": ["packs", "series1", "upland.promo"],
+          "types": {
+            "0": "Custom Voxel Explorer",
+            "1": "Blockchain Heroes Explorer",
+            "2": "Prizes",
+            "3": "Collection",
+            "4": "Postcard",
+            "5": "3D Explorer",
+            "6": "BH Headquarters Illustrations",
+            "7": "Jokers Mad Balls",
+            "8": "Super Miles"
+          }
+        }
+      ],
       "tokens": [
         {
           "symbol": "UPX",
-          "contract": "upxtokenacct"
+          "contract": "upxtokenacct",
+          "prices": {
+            "coinpaprika": "",
+            "coinmarketcap": "",
+            "coingecko": "",
+            "mobula": ""
+          }
         }
       ],
       "rent": [],

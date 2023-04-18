@@ -9,7 +9,18 @@
   ],
   "contracts": {
     "ethereum-1": {
-      "assets": ["0x0812074e395b711910F2fba9f129078918ADe855", "0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51"],
+      "assets": [        
+        {
+          "contract": "0x0812074e395b711910F2fba9f129078918ADe855",
+          "category": "Items",          
+          "tags": ["webb", "items", "badge"]
+        },
+        {
+          "contract": "0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51",
+          "category": "Land",          
+          "tags": ["webb", "land"]
+        }
+      ],
       "tokens": [],
       "rent": [],
       "defi": [],

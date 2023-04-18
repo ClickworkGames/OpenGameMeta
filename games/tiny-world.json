@@ -7,11 +7,23 @@
   "aliases": ["https://tinyworlds.io/"],
   "contracts": {
     "binance-56": {
-      "assets": ["0xD80EdcF7C73B43852dA39497a6B5E9cbA1Edf39e"],
+      "assets": [        
+        {
+          "contract": "0xD80EdcF7C73B43852dA39497a6B5E9cbA1Edf39e",
+          "category": "Characters",          
+          "tags": ["character"]
+        }
+      ],
       "tokens": [
         {
           "symbol": "TINC",
-          "contract": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e"
+          "contract": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e",
+          "prices": {
+            "coinpaprika": "tinc-tiny-coin",
+            "coinmarketcap": "tiny-coin",
+            "coingecko": "tiny-coin",
+            "mobula": ""
+          }
         }
       ],
       "rent": [],

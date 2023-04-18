@@ -7,19 +7,33 @@
   "aliases": ["https://game.tapfantasy.io/"],
   "contracts": {
     "binance-56": {
-      "assets": ["0xd7C79AbEb8d8B21e7638A8aADfdcC1438d24B483"],
+      "assets": [        
+        {
+          "contract": "0xd7C79AbEb8d8B21e7638A8aADfdcC1438d24B483",
+          "category": "Characters & skins",          
+          "tags": ["character", "skin"]
+        }
+      ],
       "tokens": [
         {
           "symbol": "TAP",
-          "contract": "0x35bEdBF9291b22218a0dA863170dcC9329Ef2563"
+          "contract": "0x35bEdBF9291b22218a0dA863170dcC9329Ef2563",
+          "prices": {
+            "coinpaprika": "tap-tap-coin",
+            "coinmarketcap": "tap-fantasy",
+            "coingecko": "tap-fantasy",
+            "mobula": "tap-fantasy"
+          }
         },
         {
           "symbol": "MC",
-          "contract": "0x59C49B54D4425C7fF1E49f40958a14d48cC87c26"
-        },
-        {
-          "symbol": "GOLD",
-          "contract": "0xbf3BF5975B6da4eb5DA78C3796b64eDd19E8c92b"
+          "contract": "0x59C49B54D4425C7fF1E49f40958a14d48cC87c26",
+          "prices": {
+            "coinpaprika": "mc-magic-crystal-coin",
+            "coinmarketcap": "",
+            "coingecko": "tap-fantasy-mc",
+            "mobula": ""
+          }
         }
       ],
       "rent": [],
