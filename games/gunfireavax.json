@@ -1,0 +1,42 @@
+{
+  "id": "gunfireavax",
+  "name": "Gunfire AVAX",
+  "description": "Gunfire AVAX is a combat shooter game with automated firing mechanics. Players only need to manage the character's movement, the shooting is totally automated, and thus the monsters will have nowhere to hide.",
+  "icon": "https://cdn.superb.games/gunfire_avax_logo_c09e6cd0e4.png?format=webp&quality=70&height=185",
+  "url": "https://gunfireavax.io/",
+  "aliases": [],
+  "contracts": {
+    "avalanche-43114": {
+      "assets": [       
+        {
+          "contract": "0xc4957dc87e1CBD031621f9AAE8346c35384d4E69",
+          "category": "Assets",          
+          "tags": ["guns", "shields", "bullets"]
+        },
+        {
+          "contract": "0x1482E9509117792cDecf9d3AEA2F203c563c8216",
+          "category": "Chest",          
+          "tags": ["weapons", "chest"]
+        }
+      ],
+      "tokens": [
+        {
+          "symbol": "GUNX",
+          "contract": "0xBE785A1a965344A3ba590fc4cb2A56390De26914",
+          "prices": {
+            "coinpaprika": "",
+            "coinmarketcap": "",
+            "coingecko": "",
+            "mobula": ""
+          }
+        }        
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
+    }
+  },
+  "social": {
+    "superb": "https://superb.games/games/gunfireavax"
+  }
+}

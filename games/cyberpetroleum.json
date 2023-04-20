@@ -1,0 +1,31 @@
+{
+  "id": "cyberpetroleum",
+  "name": "Cyber Petroleum",
+  "description": "Cyber Petroleum is a Trader Game by Turn, your task is to take wise decisions to expand your business in a metaverse which is connected to the REAL WORLD of the Gas and Oil Industry, All events from real life affects the game.",
+  "icon": "https://cdn.superb.games/cyber_petroleum_game_logo_39149e25bc.png?format=webp&quality=70&height=185",
+  "url": "https://cyberpetroleum.com/",
+  "aliases": [],
+  "contracts": {
+    "binance-56": {
+      "assets": [],
+      "tokens": [        
+        {
+          "symbol": "PTC",
+          "contract": "0x2880a8541AF8357884191E1B508e8d6Bf8A39590",
+          "prices": {
+            "coinpaprika": "ptc-petrol-coin",
+            "coinmarketcap": "",
+            "coingecko": "",
+            "mobula": ""
+          }  
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
+    }
+  },
+  "social": {
+    "superb": "https://superb.games/games/cyberpetroleum"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "avalanche-43114",
+  "module": "evm",
+  "name": "Avalanche C-Chain",
+  "chain": "avalanche",
+  "network": "avalanche",
+  "chainId": 43114,
+  "networkId": 43114, 
+  "aliases": ["avalanche", "avalanche-cchain", "avalanche-c", "avalanche-chain", "avalanche-mainnet"], 
+  "icon": "https://cdn.superb.games/avalanche_avax_logo_e393e7aad5.png?format=png&quality=100&height=150",
+  "rpc": [
+    "https://avalanche-mainnet.infura.io",
+    "https://avalanche-c-chain.publicnode.com",
+    "https://rpc.ankr.com/avalanche"    
+  ],  
+  "nativeCurrency": {
+    "name": "AVAX",
+    "symbol": "AVAX",
+    "decimals": 18
+  }, 
+  "explorers": [
+    {
+      "name": "Snowtrace",
+      "url": "https://snowtrace.io"         
+    }
+  ],
+  "extra": {
+    "infoURL": "https://avax.network/",
+    "shortName": "avax",    
+    "superb-support": ["token", "ramp"]
+  },
+  "testnet": false
+}

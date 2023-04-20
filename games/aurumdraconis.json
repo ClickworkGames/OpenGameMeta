@@ -1,0 +1,54 @@
+{
+  "id": "aurumdraconis",
+  "name": "The Legend of Aurum Draconis",
+  "description": "Aurum Draconis, fearsome leader of the dragons, never forgot nor forgave the loss of his ancestral lands.",
+  "icon": "https://cdn.superb.games/aurum_draconis_logo_8f56b3474e.jpg?format=webp&quality=70&height=185",
+  "url": "https://play.dragoncrypto.games/",
+  "aliases": [
+    "https://aurumdraconis.dragoncrypto.io/"
+  ],
+  "contracts": {
+    "avalanche-43114": {
+      "assets": [      
+        {
+          "contract": "0x7a420AEFF902AAa2c85a190D7B91Ce8BEFffFE14",
+          "category": "Hero",          
+          "tags": ["heroes", "characters"]
+        },
+        {
+          "contract": "0x9b8aE53F9679AF63cF78ed3b5E767463DDDdB813",
+          "category": "Starters",          
+          "tags": ["starter", "kit", "chest"]
+        }
+      ],
+      "tokens": [
+        {
+          "symbol": "DCAU",
+          "contract": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
+          "prices": {
+            "coinpaprika": "",
+            "coinmarketcap": "dragon-crypto-aurum",
+            "coingecko": "dragon-crypto-aurum",
+            "mobula": ""
+          }          
+        },
+        {
+          "symbol": "DCAR",
+          "contract": "0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F",
+          "prices": {
+            "coinpaprika": "dcar-dragon-crypto-argenti",
+            "coinmarketcap": "dragon-crypto-argenti",
+            "coingecko": "dragon-crypto-argenti",
+            "mobula": ""
+          }
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
+    }
+  },
+  "social": {
+    "superb": "https://superb.games/games/aurumdraconis"
+  }
+}
