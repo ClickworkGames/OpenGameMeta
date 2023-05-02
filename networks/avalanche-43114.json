@@ -9,7 +9,6 @@
   "aliases": ["avalanche", "avalanche-cchain", "avalanche-c", "avalanche-chain", "avalanche-mainnet"], 
   "icon": "https://cdn.superb.games/avalanche_avax_logo_e393e7aad5.png?format=png&quality=100&height=150",
   "rpc": [
-    "https://avalanche-mainnet.infura.io",
     "https://avalanche-c-chain.publicnode.com",
     "https://rpc.ankr.com/avalanche"    
   ],  
