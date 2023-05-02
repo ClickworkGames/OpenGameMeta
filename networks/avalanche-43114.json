@@ -26,7 +26,7 @@
   "extra": {
     "infoURL": "https://avax.network/",
     "shortName": "avax",    
-    "superb-support": ["token", "ramp"]
+    "superb-support": ["token", "ramp", "nft"]
   },
   "testnet": false
 }
