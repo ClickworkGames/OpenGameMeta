@@ -1,0 +1,23 @@
+{
+    "id": "knight-war-the-holy-trio",
+    "name": "Knight War: The Holy Trio",
+    "description": "Knight War: The Holy Trio is a play-to-earn game that combines elements of the Idle defense genre and focuses on crafting weapons rather than characters.",
+    "icon": "https://cdn.superb.games/Knight_War_Holy_Trio_icon_f9303dfef3.png?format=webp&quality=70&height=185", 
+    "url": "https://knightwar.io/",
+    "aliases": [
+        "https://knightwar.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/knight-war-the-holy-trio"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,34 @@
+{
+    "id": "dogeon",
+    "name": "Dogeon",
+    "description": "Dogeon is an NFT gaming project on Avalanche that features the first DOG RACE Play-to-Earn game, making it a unique and valuable experience.",
+    "icon": "https://cdn.superb.games/dogeon_78ae2aa06f.webp?format=webp&quality=70&height=185",
+    "url": "https://www.dogeon.io/",
+    "aliases": [
+        "https://www.dogeon.io/"
+    ],  
+    "contracts": {
+        "avalanche-43114": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "DON",
+                "contract": "0x1db749847c4abb991d8b6032102383e6bfd9b1c7",
+                "prices": {
+                  "coinpaprika": "don-dogeon",
+                  "coinmarketcap": "don-dogeon",
+                  "coingecko": "don-dogeon",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/dogeon"        
+    },
+    "extra": {}
+  }

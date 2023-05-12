@@ -1,0 +1,29 @@
+{
+    "id": "blankos-block-party",
+    "name": "Blankos Block Party",
+    "description": "Blankos Block Party is a MMO set in a vibrant online world styled like a giant block party, with a focus on custom art and design, world-building and exploration, and collecting unique Blankos.",
+    "icon": "https://cdn.superb.games/100_blankos_block_party_3dfa2020b2.webp?format=webp&quality=70&height=185",
+    "url": "https://blankos.com/",
+    "aliases": [
+        "https://blankos.com/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [      
+              {
+                "contract": "0x4bBCc727822b99330BF164C0972Fcf1b537CAA78",
+                "category": "Blankos",          
+                "tags": ["BLNKS"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/blankos-block-party"        
+    },
+    "extra": {}
+  }

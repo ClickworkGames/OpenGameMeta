@@ -1,0 +1,40 @@
+{
+    "id": "g-bots",
+    "name": "G-Bots",
+    "description": "G-Bots are battle mech NFTs fighting in the metaverse.",
+    "icon": "https://cdn.superb.games/G_Bots_icon_b37482302f.png?format=webp&quality=70&height=185", 
+    "url": "https://www.gamee.com/gbots",
+    "aliases": [
+        "https://www.gamee.com/gbots"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x5B30cc4deF69AE2DfCddBC7eBAFEa82CEDaE0190",
+                "category": "GBot Inventory",          
+                "tags": ["GBOT"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "GMEE",
+                "contract": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+                "prices": {
+                  "coinpaprika": "gamee-g-bots",
+                  "coinmarketcap": "gamee-g-bots",
+                  "coingecko": "gamee-g-bots",
+                  "mobula": "gamee-g-bots"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/g-bots"        
+    },
+    "extra": {}
+  }

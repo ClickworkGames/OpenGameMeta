@@ -1,0 +1,40 @@
+{
+    "id": "forest-knight",
+    "name": "Forest Knight",
+    "description": "Forest Knight is a turn-based strategy mobile game set in the fantasy world of Chronville.",
+    "icon": "https://cdn.superb.games/Forest_Knight_icon_d287bdbe6e.png?format=webp&quality=70&height=185", 
+    "url": "https://www.forestknight.io/",
+    "aliases": [
+        "https://www.forestknight.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x9C09596d3D3691EA971F0b40B8Cad44186868267",
+                "category": "Forest Knight: Kingdoms at War",          
+                "tags": ["forestknight"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "KNIGHT",
+                "contract": "0x4455ef8b4b4a007a93daa12de63a47eeac700d9d",
+                "prices": {
+                  "coinpaprika": "",
+                  "coinmarketcap": "knight-forest-knight",
+                  "coingecko": "knight-forest-knight",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/forest-knight"        
+    },
+    "extra": {}
+  }

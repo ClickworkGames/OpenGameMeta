@@ -1,0 +1,23 @@
+{
+    "id": "chaino",
+    "name": "Chaino",
+    "description": "Play card games solo or with friends online without having to download an app.", 
+    "icon": "https://cdn.superb.games/Chaino_icon_f6dff371ec.jpg?format=webp&quality=70&height=185", 
+    "url": "https://chaino.chaingames.io/",
+    "aliases": [
+        "https://chaino.chaingames.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/chaino"        
+    },
+    "extra": {}
+  }

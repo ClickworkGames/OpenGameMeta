@@ -1,0 +1,23 @@
+{
+    "id": "hunters-on-chain",
+    "name": "Hunters On-Chain",
+    "description": "Hunters On-Chain, by BoomLand, is a blockchain-based battle royale where players compete against each other and the environment in different game modes to be the best Hunter!",
+    "icon": "https://cdn.superb.games/hunters_on_chain_boomland_767df4f40a.png?format=webp&quality=70&height=185", 
+    "url": "https://hoc-testnet.boomland.io/",
+    "aliases": [
+        "https://hoc-testnet.boomland.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/hunters-on-chain"        
+    },
+    "extra": {}
+  }

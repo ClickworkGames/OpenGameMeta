@@ -1,0 +1,40 @@
+{
+    "id": "arc8",
+    "name": "Arc8",
+    "description": "Arc8 is a gaming platform with over a dozen modern takes on popular classic arcade and card games.",
+    "url": "https://www.gamee.com/arc8",
+    "icon": "https://cdn.superb.games/Arc8_icon_b697d0f33d.png?format=webp&quality=70&height=185", 
+    "aliases": [
+        "https://www.gamee.com/arc8"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x5B30cc4deF69AE2DfCddBC7eBAFEa82CEDaE0190",
+                "category": "Collectible",          
+                "tags": ["G-Bot"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "GAMEE",
+                "contract": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+                "prices": {
+                  "coinpaprika": "https://coinpaprika.com/coin/gmee-gamee/",
+                  "coinmarketcap": "https://coinmarketcap.com/currencies/gamee/",
+                  "coingecko": "https://www.coingecko.com/en/coins/gamee",
+                  "mobula": "https://mobula.fi/asset/gamee"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/arc8"        
+    },
+    "extra": {}
+  }

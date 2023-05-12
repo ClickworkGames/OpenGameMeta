@@ -1,0 +1,34 @@
+{
+    "id": "legendsofcrypto-locgame",
+    "name": "Legends of Crypto (LOC Game)",
+    "description": "Legends of Crypto (LOC Game) is an NFT collectible strategy card game on the Ethereum blockchain where players can battle to win valuable tokens and NFT items.",
+    "icon": "https://cdn.superb.games/Legends_of_Crypto_LOC_Game_icon_520c4b974d.png?format=webp&quality=70&height=185", 
+    "url": "https://www.locgame.io/",
+    "aliases": [
+        "https://www.locgame.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "LOCG",
+                "contract": "0x60eb57d085c59932d5faa6c6026268a4386927d0",
+                "prices": {
+                  "coinpaprika": "",
+                  "coinmarketcap": "",
+                  "coingecko": "",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/legendsofcrypto-locgame"        
+    },
+    "extra": {}
+  }

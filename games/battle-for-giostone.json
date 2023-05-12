@@ -1,0 +1,34 @@
+{
+    "id": "battle-for-giostone",
+    "name": "Battle For Giostone",
+    "description": "Battle For Giostone is the first authentic #PlayAndEarn #MOBA game developed by M-Tech entertainment. Battle For Giostone is a gaming universe filled with amazing species of heroes.",
+    "icon": "https://cdn.superb.games/100_battle_for_giostone_e2baeeff2e.webp?format=webp&quality=70&height=185",
+    "url": "https://battleforgiostone.com/",
+    "aliases": [
+        "https://battleforgiostone.com/"
+    ],  
+    "contracts": {
+        "avalanche-43114": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "BFG",
+                "contract": "0xfd538ca3f58dc309da55b11f007ff53fb4602876",
+                "prices": {
+                  "coinpaprika": "bfg-battle-for-giostone",
+                  "coinmarketcap": "bfg-battle-for-giostone",
+                  "coingecko": "bfg-battle-for-giostone",
+                  "mobula": "bfg-battle-for-giostone"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/battle-for-giostone"        
+    },
+    "extra": {}
+  }

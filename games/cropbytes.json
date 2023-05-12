@@ -1,0 +1,34 @@
+{
+    "id": "cropbytes",
+    "name": "CropBytes",
+    "description": "CropBytes is a crypto farming simulation game based on real-world economics.",
+    "icon": "https://cdn.superb.games/100_cropbytes_925f746f00.webp?format=webp&quality=70&height=185",
+    "url": "https://www.cropbytes.com/",
+    "aliases": [
+        "https://www.cropbytes.com/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "CBX",
+                "contract": "0x37fc4b48ce93469dbea9918468993c735049642a",
+                "prices": {
+                  "coinpaprika": "cbx-cropbytes",
+                  "coinmarketcap": "cbx-cropbytes",
+                  "coingecko": "cbx-cropbytes",
+                  "mobula": "cbx-cropbytes"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/cropbytes"        
+    },
+    "extra": {}
+  }

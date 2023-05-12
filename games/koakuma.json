@@ -1,0 +1,23 @@
+{
+    "id": "koakuma",
+    "name": "Koakuma",
+    "description": "Koakuma is a play-to-earn MMOARPG with immersive combat mechanics set in a graphics-intensive metaverse built on Polygon, releasing on PC and mobile.",
+    "icon": "https://cdn.superb.games/Koakuma_icon_fd10078ed0.png?format=webp&quality=70&height=185", 
+    "url": "https://koakuma.io/",
+    "aliases": [
+        "https://koakuma.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/koakuma"        
+    },
+    "extra": {}
+  }

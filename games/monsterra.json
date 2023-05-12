@@ -1,0 +1,34 @@
+{
+    "id": "monsterra",
+    "name": "Monsterra",
+    "description": "The Monsterra NFT game is a multi-chain game run on BNB, Avalanche and Terra networks inspired by the Axie Infinity game's pet world and the gameplay in Clash of Clans or Boom Beach of Supercell.",
+    "icon": "https://cdn.superb.games/Monsterra_icon_61e47a5e01.webp?format=webp&quality=70&height=185",
+    "url": "https://monsterra.io/",
+    "aliases": [
+        "https://monsterra.io/"
+    ],  
+    "contracts": {
+        "avalanche-43114": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "MSTR",
+                "contract": "0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9",
+                "prices": {
+                  "coinpaprika": "mstr-monsterra",
+                  "coinmarketcap": "mstr-monstera",
+                  "coingecko": "mstr-monsterra",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/monsterra"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,39 @@
+{
+    "id": "denations",
+    "name": "DeNations",
+    "description": "DeNations is a blockchain-powered decentralized metaverse where users can create and manage virtual nations, cities, and civilizations.",
+    "url": "https://denations.com/",
+    "aliases": [
+        "https://denations.com/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [      
+              {
+                "contract": ["0xA9Cfc59a96EaF67f8E1b8BC494d3863863C1F8ED"],
+                "category": ["Decentralized Nations"],
+                "tags": ["NATION"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "DENA",
+                "contract": "0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da",
+                "prices": {
+                  "coinpaprika": "dena-denations",
+                  "coinmarketcap": "dena-denations",
+                  "coingecko": "dena-denations",
+                  "mobula": "dena-denations"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/denations"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,45 @@
+{
+    "id": "crazy-defense-heroes",
+    "name": "Crazy Defense Heroes",
+    "description": "Crazy Defense Heroes is a tower defense mobile game that combines free-to-play with play-to-earn.",
+    "icon": "https://cdn.superb.games/100_crazy_defense_heroes_7e058208e5.webp?format=webp&quality=70&height=185", 
+    "url": "https://crazydefenseheroes.com/",
+    "aliases": [
+        "https://crazydefenseheroes.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xcf501EaD3EbfA60f40725fcA1D82Fc05bfF63Bf2",
+                "category": "Tower Battle Cards",          
+                "tags": ["TOWERTBC"]
+              },
+              {
+                "contract": "0x2B88Ce7b01E6BdBB18f9703e01286608cF77e805",
+                "category": "NFT tickets",
+                "tags": ["TOWER-I"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "TOWER",
+                "contract": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+                "prices": {
+                  "coinpaprika": "tower-tower",
+                  "coinmarketcap": "tower-token",
+                  "coingecko": "tower",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/crazy-defense-heroes"        
+    },
+    "extra": {}
+  }

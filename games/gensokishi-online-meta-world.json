@@ -1,0 +1,50 @@
+{
+    "id": "gensokishi-online-meta-world",
+    "name": "GensoKishi Online Meta World",
+    "description": "Gensokishi Online is a Japanese metaverse project that originated from a popular video console game called “Elemental Knights” with 8 million downloads worldwide.",
+    "icon": "https://cdn.superb.games/Gensokishi_Online_icon_f0f3c91010.png?format=webp&quality=70&height=185", 
+    "url": "https://genso.game/en/",
+    "aliases": [
+        "https://genso.game/en/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xC7a096b4c6610ba3a836070333ff7922b9866a36",
+                "category": "GensoKishiOnline",          
+                "tags": ["Genso_NFT"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "ROND",
+                "contract": "0x204820b6e6feae805e376d2c6837446186e57981",
+                "prices": {
+                  "coinpaprika": "rond-gensokishi-online-meta-world",
+                  "coinmarketcap": "rond-gensokishi-online-meta-world",
+                  "coingecko": "gensokishi-online-meta-world",
+                  "mobula": ""
+                }
+              },
+              {
+                "symbol": "MV",
+                "contract": "0xa3c322ad15218fbfaed26ba7f616249f7705d945",
+                "prices": {
+                  "coinpaprika": "gensokishi-metaverse-gensokishi-online-meta-world",
+                  "coinmarketcap": "gensokishi-metaverse-gensokishi-online-meta-world",
+                  "coingecko": "gensokishi-metaverse-gensokishi-online-meta-world",
+                  "mobula": "gensokishi-metaverse-gensokishi-online-meta-world"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/gensokishi-online-meta-world"        
+    },
+    "extra": {}
+  }

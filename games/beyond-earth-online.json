@@ -1,0 +1,34 @@
+{
+    "id": "beyond-earth-online",
+    "name": "Beyond Earth Online",
+    "description": "Beyond Earth Online is a Massively Multiplayer Online Role Playing Game (MMORPG) that offers blockchain integration with our ERC-20 rewards & NFTs.",
+    "icon": "https://cdn.superb.games/100_beyond_earth_online_ea19ea58d9.webp?format=webp&quality=70&height=185",
+    "url": "https://beyondearthonline.io/",
+    "aliases": [
+        "https://beyondearthonline.io/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [      
+              {
+                "contract": "0x28c6ea3F9cF9bC1a07A828fce1e7783261691B49",
+                "category": "Beyond Earth Land",          
+                "tags": ["BEL"]
+              },
+              {
+                "contract": "0x081f2f6764e788Cc13D5a8311f49b4470335c45C",
+                "category": "Beyond Earth Characters",          
+                "tags": ["BEOC"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/beyond-earth-online"        
+    },
+    "extra": {}
+  }

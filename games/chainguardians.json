@@ -1,0 +1,40 @@
+{
+    "id": "chainguardians",
+    "name": "ChainGuardians",
+    "description": "A turn-based RPG and mining game where players can use blockchain-based anime superheroes to conquer the Cryptoverse.", 
+    "icon": "https://cdn.superb.games/chainguardians_b0e0a0d8f2.webp?format=webp&quality=70&height=185", 
+    "url": "https://www.chainguardians.io/",
+    "aliases": [
+        "https://www.chainguardians.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x3CD41EC039c1F2DD1f76144bb3722E7b503f50ab",
+                "category": "Guardian",          
+                "tags": ["CGT"]
+              }              
+            ],           
+            "tokens": [               
+              {
+                "symbol": "CGG",
+                "contract": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+                "prices": {
+                  "coinpaprika": "cgg-chain-guardians",
+                  "coinmarketcap": "chain-guardians",
+                  "coingecko": "chain-guardians",
+                  "mobula": "chain-guardians"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/chainguardians"        
+    },
+    "extra": {}
+  }

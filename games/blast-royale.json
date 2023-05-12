@@ -1,0 +1,23 @@
+{
+    "id": "blast-royale",
+    "name": "Blast Royale",
+    "description": "Players are pitted against each other in a 'last one standing' survival match.",
+    "icon": "https://cdn.superb.games/100_blast_royale_5884bd62aa.webp?format=webp&quality=70&height=185", 
+    "url": "https://www.blastroyale.com/",
+    "aliases": [
+        "https://www.blastroyale.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/blast-royale"        
+    },
+    "extra": {}
+  }

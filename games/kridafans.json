@@ -1,0 +1,34 @@
+{
+    "id": "kridafans",
+    "name": "KridaFans",
+    "description": "KridaFans is the first fantasy football platform that lets you win in multiple ways based on how well you play.",
+    "icon": "https://cdn.superb.games/Krida_Fans_icon_cc82010c2c.png?format=webp&quality=70&height=185", 
+    "url": "https://krida.fans/",
+    "aliases": [
+        "https://krida.fans/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "KRIDA",
+                "contract": "0x3c5a5885f6ee4acc2597069fe3c19f49c6efba96",
+                "prices": {
+                  "coinpaprika": "krida-krida-fans",
+                  "coinmarketcap": "krida-krida-fans",
+                  "coingecko": "krida-krida-fans",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/kridafans"        
+    },
+    "extra": {}
+  }

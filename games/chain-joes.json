@@ -1,0 +1,23 @@
+{
+    "id": "chain-joes",
+    "name": "Chain Joes",
+    "description": "Chain Joes is a mobile action shooter game that combines isometric gameplay with WEB3 enemy concepts, proven mechanics, and a more accessible Play-And-Earn model.",
+    "icon": "https://cdn.superb.games/100_chain_joes_832fa74c64.webp?format=webp&quality=70&height=185",
+    "url": "https://chainjoes.com/",
+    "aliases": [
+        "https://chainjoes.com/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/chain-joes"        
+    },
+    "extra": {}
+}

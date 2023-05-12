@@ -1,0 +1,34 @@
+{
+    "id": "covenant-child",
+    "name": "Covenant Child",
+    "description": "Covenant Child is an award-winning Strategic RPG game where players can fight through dungeons, conquer continents, battle fierce bosses, and compete against the best players in the world to earn valuable NFT rewards.",
+    "icon": "https://cdn.superb.games/covenant_child_3c011f414a.webp?format=webp&quality=70&height=185",
+    "url": "https://covenantchild.io/",
+    "aliases": [
+        "https://covenantchild.io/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "COVN",
+                "contract": "0x19ac2659599fd01c853de846919544276ad26f50",
+                "prices": {
+                  "coinpaprika": "covn-covenant",
+                  "coinmarketcap": "covn-covenant",
+                  "coingecko": "covn-covenant",
+                  "mobula": "covn-covenant"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/covenant-child"        
+    },
+    "extra": {}
+  }

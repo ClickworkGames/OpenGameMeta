@@ -1,0 +1,45 @@
+{
+    "id": "crypto-unicorns",
+    "name": "Crypto Unicorns",
+    "description": "A digital pet collecting and farming game, built on blockchain.",
+    "icon": "https://cdn.superb.games/100_crypto_unicorns_eb5713dbf9.webp?format=webp&quality=70&height=185", 
+    "url": "https://www.cryptounicorns.fun/",
+    "aliases": [
+        "https://www.cryptounicorns.fun/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xA2a13cE1824F3916fC84C65e559391fc6674e6e8",
+                "category": "Unicorn Farm",          
+                "tags": ["UNIF"]
+              },
+              {
+                "contract":"0x99A558BDBdE247C2B2716f0D4cFb0E246DFB697D",
+                "category": "Items",
+                "tags": ["Items"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "RBW",
+                "contract": "0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f",
+                "prices": {
+                  "coinpaprika": "rbw-rainbow-token",
+                  "coinmarketcap": "rainbowtoken",
+                  "coingecko": "rainbow-token",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/crypto-unicorns"      
+    },
+    "extra": {}
+  }

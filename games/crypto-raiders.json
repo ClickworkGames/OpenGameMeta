@@ -1,0 +1,40 @@
+{
+    "id": "crypto-raiders",
+    "name": "Crypto Raiders",
+    "description": "Crypto Raiders is a utility-based NFT RPG game that draws inspiration from Zed.Run and World of Warcraft.",
+    "icon": "https://cdn.superb.games/100_crypto_raiders_bd0903c9b0.webp?format=webp&quality=70&height=185", 
+    "url": "https://www.cryptoraiders.gg/",
+    "aliases": [
+        "https://www.cryptoraiders.gg/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xfD12ec7ea4B381a79C78FE8b2248b4c559011ffb",
+                "category": "CryptoRaiders",          
+                "tags": ["RAIDER"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "RAIDER",
+                "contract": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
+                "prices": {
+                  "coinpaprika": "",
+                  "coinmarketcap": "crypto-raider",
+                  "coingecko": "crypto-raiders",
+                  "mobula": "crypto-raiders"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/crypto-raiders"        
+    },
+    "extra": {}
+  }

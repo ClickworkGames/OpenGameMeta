@@ -1,0 +1,45 @@
+{
+    "id": "aavegotchi",
+    "name": "Aavegotchi",
+    "description": "Aavegotchi is a crypto collectible game where participants can purchase and grow Aavegotchis, Non-Fungible Token (NFT) avatars used to explore and interact with Aavegotchi's digital universe.",
+    "icon": "https://cdn.superb.games/100_aavegotchi_3b45ebfb5f.webp?format=webp&quality=70&height=185",
+    "url": "https://app.aavegotchi.com/",
+    "aliases": [
+        "https://www.aavegotchi.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
+                "category": "Diamond",          
+                "tags": ["gotchi"]
+              },
+              {
+                "contract": "0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f",
+                "category": "Wearables",          
+                "tags": ["gotchi", "wearable"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "GHST",
+                "contract": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+                "prices": {
+                  "coinpaprika": "ghst-aavegotchi",
+                  "coinmarketcap": "aavegotchi",
+                  "coingecko": "aavegotchi",
+                  "mobula": "aavegotchi"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/aavegotchi"        
+    },
+    "extra": {}
+  }

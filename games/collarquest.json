@@ -1,0 +1,40 @@
+{
+    "id": "collarquest",
+    "name": "CollarQuest",
+    "description": "CollarQuest is a community-owned and directed GameFi platform that offers Play To Earn, Play To Own, and Free To Play options on desktop or mobile devices.",
+    "icon": "https://cdn.superb.games/100_collarquest_c58cf4531a.webp?format=webp&quality=70&height=185", 
+    "url": "https://www.collarquest.com/",
+    "aliases": [
+        "https://www.collarquest.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x674900B8fD8EE1B487d162d04C59300222D90466",
+                "category": "SPARC-E",          
+                "tags": ["SPARC-E"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "COLLAR",
+                "contract": "0xd5fa77a860fea9cff31da91bbf9e0faea9538290",
+                "prices": {
+                  "coinpaprika": "collar-dog-collar",
+                  "coinmarketcap": "dog-collar",
+                  "coingecko": "dog-collar",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/collarquest"        
+    },
+    "extra": {}
+  }

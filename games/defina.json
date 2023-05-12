@@ -1,0 +1,34 @@
+{
+    "id": "defina",
+    "name": "Defina",
+    "description": "Defina Finance is a unique blockchain game that combines the elements of DeFi and NFTs.",
+    "icon": "https://cdn.superb.games/100_defina_da31f532c8.webp?format=webp&quality=70&height=185", 
+    "url": "https://defina.finance/",
+    "aliases": [
+        "https://defina.finance/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "FINA",
+                "contract": "0x426c72701833fdDBdFc06c944737C6031645c708",
+                "prices": {
+                  "coinpaprika": "fina-defina",
+                  "coinmarketcap": "fina-defina",
+                  "coingecko": "fina-defina",
+                  "mobula": "fina-defina"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/defina"        
+    },
+    "extra": {}
+  }

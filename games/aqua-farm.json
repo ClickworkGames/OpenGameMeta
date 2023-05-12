@@ -1,0 +1,40 @@
+{
+    "id": "aqua-farm",
+    "name": "Aqua Farm",
+    "description": "Aqua Farm is an Adventure RPG based on blockchain technology with a Play-to-Earn structure.",
+    "icon": "https://cdn.superb.games/100_alaska_gold_rush_9c62f42a2f.webp?format=webp&quality=70&height=185%22,",
+    "url": "https://playaquafarm.io/",
+    "aliases": [
+        "https://playaquafarm.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xfDe7aCA6ACa283a5578471Ca1000745a6ce8ce81",
+                "category": "Ocean fairies",          
+                "tags": ["Aree"]
+              }              
+            ],           
+            "tokens": [               
+              {
+                "symbol": "AES",
+                "contract": "0x2A07461a493b994C2a32f549Fd185524f306aB38",
+                "prices": {
+                  "coinpaprika": "",
+                  "coinmarketcap": "",
+                  "coingecko": "",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/aqua-farm"        
+    },
+    "extra": {}
+  }

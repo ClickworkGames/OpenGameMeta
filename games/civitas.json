@@ -1,0 +1,29 @@
+{
+    "id": "civitas",
+    "name": "Civitas",
+    "description": "Civitas is the world's first community-driven Play & Earn strategy game.",
+    "icon": "https://cdn.superb.games/civitas_2c9d1e02ac.webp?format=webp&quality=70&height=185",
+    "url": "https://playcivitas.io/",
+    "aliases": [
+        "https://playcivitas.io/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [      
+              {
+                "contract": "0x25b80D35F7749294c17DC28cBB10113c291936B3",
+                "category": "CitiCharacter",          
+                "tags": ["CTC"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/civitas"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,29 @@
+{
+    "id": "landrocker",
+    "name": "LandRocker",
+    "description": "LandRocker is a metaverse about discovery and space exploration where players compete in a virtual space race to uncover the mysteries of our universe and beyond, and earn valuable resources such as NFTs, crypto tokens, crafting materials, and more.",
+    "icon": "https://cdn.superb.games/Land_Rocker_icon_f99621f0ec.svg?format=webp&quality=70&height=185", 
+    "url": "https://landrocker.io/",
+    "aliases": [
+        "https://landrocker.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xE9F4e3C6Af028Fd99753bb8F725727421baF7EC6",
+                "category": "LandRocker NFT",          
+                "tags": ["LRNFT"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/landrocker"        
+    },
+    "extra": {}
+  }

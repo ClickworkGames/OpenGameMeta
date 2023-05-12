@@ -1,0 +1,29 @@
+{
+    "id": "mintopoly",
+    "name": "Mintopoly",
+    "description": "Mintopoly is a free-to-play crypto-based idle game that allows players to build their own mining rig and empire of smart contracts, exchanges, and trading bots.",
+    "icon": "https://cdn.superb.games/Mintopoly_icon_48df10be8d.png?format=webp&quality=70&height=185", 
+    "url": "https://www.mintopoly.io/",
+    "aliases": [
+        "https://www.mintopoly.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xa78C32A8Ec92bE4c8f275A7ade72C685f1539E69",
+                "category": "Token",          
+                "tags": ["ERC1155"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/mintopoly"        
+    },
+    "extra": {}
+  }

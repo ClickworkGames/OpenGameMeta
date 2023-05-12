@@ -1,0 +1,34 @@
+{
+    "id": "crypto-blades",
+    "name": "CryptoBlades",
+    "description": "CryptoBlades is a play-to-earn NFT RPG developed by Riveted Games.",
+    "icon": "https://cdn.superb.games/100_cryptoblades_95d2718f81.webp?format=webp&quality=70&height=185", 
+    "url": "https://www.cryptoblades.io/",
+    "aliases": [
+        "https://www.cryptoblades.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "SKILL",
+                "contract": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+                "prices": {
+                  "coinpaprika": "skill-cryptoblades",
+                  "coinmarketcap": "skill-cryptoblades",
+                  "coingecko": "skill-cryptoblades",
+                  "mobula": "skill-cryptoblades"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/crypto-blades"        
+    },
+    "extra": {}
+  }

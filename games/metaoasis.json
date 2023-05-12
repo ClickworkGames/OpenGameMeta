@@ -1,0 +1,23 @@
+{
+    "id": "metaoasis",
+    "name": "MetaOasis",
+    "description": "An adventure in the new Oasis galaxy, a universe full of beautiful planets to be discovered, pilot your spaceship on a new journey with dual-scene battles between space and land.",
+    "icon": "https://cdn.superb.games/Meta_Oasis_icon_0d242b22cf.jpg?format=webp&quality=70&height=185",
+    "url": "https://www.metaoasis.cc/#/index",
+    "aliases": [
+        "https://www.metaoasis.cc/#/index"
+    ],  
+    "contracts": {
+        "avalanche-43114": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/metaoasis"        
+    },
+    "extra": {}
+  }

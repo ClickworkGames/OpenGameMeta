@@ -1,0 +1,34 @@
+{
+    "id": "hero-arena",
+    "name": "Hero Arena",
+    "description": "Hero Arena is a Web3 RPG game set in a futuristic world that draws inspiration from Dota2.",
+    "icon": "https://cdn.superb.games/Hero_Arena_icon_a010e8ae5f.png?format=webp&quality=70&height=185", 
+    "url": "https://heroarena.app/",
+    "aliases": [
+        "https://heroarena.app/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "HERA",
+                "contract": "0x49c7295ff86eabf5bf58c6ebc858db4805738c01",
+                "prices": {
+                  "coinpaprika": "hera-hero-arena",
+                  "coinmarketcap": "hera-hero-arena",
+                  "coingecko": "hera-hero-arena",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/hero-arena"        
+    },
+    "extra": {}
+  }

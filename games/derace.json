@@ -1,0 +1,33 @@
+{
+    "id": "derace",
+    "name": "DeRace",
+    "description": "DeRace is a virtual NFT horse racing universe that is built on a blockchain architecture and powered by DERC.",
+    "url": "https://derace.com/",
+    "aliases": [
+        "https://derace.com/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "DERC",
+                "contract": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+                "prices": {
+                  "coinpaprika": "derc-derace",
+                  "coinmarketcap": "derc-derace",
+                  "coingecko": "derc-derace",
+                  "mobula": "derc-derace"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/derace"        
+    },
+    "extra": {}
+  }

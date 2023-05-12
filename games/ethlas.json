@@ -1,0 +1,29 @@
+{
+    "id": "ethlas",
+    "name": "Ethlas",
+    "description": "Ethlas is a free-to-play, play-to-earn metaverse built on the Polygon and Ethereum chains where players play skill-based games to earn gems, the main currency.",
+    "icon": "https://cdn.superb.games/Ethlas_icon_9925b0518b.webp?format=webp&quality=70&height=185", 
+    "url": "https://ethlas.com/",
+    "aliases": [
+        "https://ethlas.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xA1D3A75CafaE1a4d1AD354dD35951954Cb1402a3",
+                "category": "Komos by Ethlas",          
+                "tags": ["komo"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/ethlas"        
+    },
+    "extra": {}
+  }

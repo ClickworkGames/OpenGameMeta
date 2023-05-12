@@ -1,0 +1,40 @@
+{
+    "id": "monsters-clan",
+    "name": "Monsters Clan",
+    "description": "Monsters Clan is a virtual NFT game where players can interact with unique monsters in their own world.",
+    "icon": "https://cdn.superb.games/Monster_Clan_icon_7a9c3e2a2c.png?format=webp&quality=70&height=185",
+    "url": "https://monstersclan.com/",
+    "aliases": [
+        "https://monstersclan.com/"
+    ],  
+    "contracts": {
+        "binance-56": {
+            "assets": [      
+              {
+                "contract": "0x372360677eC2B72cfc5aD89fc3C14b43E2e1A2F5",
+                "category": "Monsters Clan",          
+                "tags": ["Potions", "Boxes", "Monsters"]
+              }
+            ],             
+            "tokens": [
+              {
+                "symbol": "MONS",
+                "contract": "0xE4c797d43631F4d660EC67B5CB0B78Ef5c902532",
+                "prices": {
+                  "coinpaprika": "mons-monsters-clan",
+                  "coinmarketcap": "monsters-clan",
+                  "coingecko": "monsters-clan",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/monsters-clan"        
+    },
+    "extra": {}
+  }

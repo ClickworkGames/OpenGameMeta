@@ -1,0 +1,40 @@
+{
+    "id": "gaia-everworld",
+    "name": "Gaia EverWorld",
+    "description": "Gaia Everworld is a blockchain-based game where players have full ownership of their characters and earn rewards by playing.",
+    "icon": "https://cdn.superb.games/Gaia_Everworld_icon_68d9d5c699.png?format=webp&quality=70&height=185", 
+    "url": "https://gaiaworld.com/",
+    "aliases": [
+        "https://gaiaworld.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x2a81CB0F4813Ea2877880330a5A1a8Cf732CA0b0",
+                "category": "Eever",          
+                "tags": ["EEVER"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "GAIA",
+                "contract": "0x723b17718289a91af252d616de2c77944962d122",
+                "prices": {
+                  "coinpaprika": "gaia-everworld-gaia-everworld",
+                  "coinmarketcap": "gaia-everworld-gaia-everworld",
+                  "coingecko": "gaia-everworld-gaia-everworld",
+                  "mobula": "gaia-everworld-gaia-everworld"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/gaia-everworld"        
+    },
+    "extra": {}
+  }

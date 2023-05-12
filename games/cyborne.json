@@ -1,0 +1,33 @@
+{
+    "id": "cyborne",
+    "name": "Cyborne",
+    "description": "A shooter game brought to you by OmniaVerse that will push every player to their max.",
+    "url": "https://omniaverse.itch.io/cyborne",
+    "aliases": [
+        "https://omniaverse.itch.io/cyborne"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "OMNIA",
+                "contract": "0x71dC640b99faAF03544BDbCE87018c2Ae8ebE849",
+                "prices": {
+                  "coinpaprika": "omnia-cyborne",
+                  "coinmarketcap": "omnia-cyborne",
+                  "coingecko": "omnia-cyborne",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/cyborne"        
+    },
+    "extra": {}
+  }

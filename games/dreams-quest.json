@@ -1,0 +1,34 @@
+{
+    "id": "dreams-quest",
+    "name": "Dreams Quest",
+    "description": "Dreams Quest is a play-to-earn RPG card game using dynamic NFTs.",
+    "icon": "https://cdn.superb.games/dreams_quest_34ad8a9ea7.webp?format=webp&quality=70&height=185", 
+    "url": "https://dreams.quest/",
+    "aliases": [
+        "https://dreams.quest/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "DREAMS",
+                "contract": "0x54523d5fb56803bac758e8b10b321748a77ae9e9",
+                "prices": {
+                  "coinpaprika": "dreams-dreams-quest",
+                  "coinmarketcap": "dreams-dreams-quest",
+                  "coingecko": "dreams-dreams-quest",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/dreams-quest"        
+    },
+    "extra": {}
+  }

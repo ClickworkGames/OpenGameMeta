@@ -1,0 +1,34 @@
+{
+    "id": "kaby-arena",
+    "name": "Kaby Arena",
+    "description": "Kaby Arena is a tactical multiplayer role playing game which combines free-to-play and play-to-earn to provide an open economy for every player.",
+    "icon": "https://cdn.superb.games/Kaby_Arena_icon_b0413402c7.png?format=webp&quality=70&height=185", 
+    "url": "https://kabyarena.com/",
+    "aliases": [
+        "https://kabyarena.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "KABY",
+                "contract": "0x5198E7cC1640049dE37D1Bd10b03Fa5A3AFDA120",
+                "prices": {
+                  "coinpaprika": "kaby-kaby-arena",
+                  "coinmarketcap": "kaby-kaby-arena",
+                  "coingecko": "kaby-kaby-arena",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/kaby-arena"        
+    },
+    "extra": {}
+  }

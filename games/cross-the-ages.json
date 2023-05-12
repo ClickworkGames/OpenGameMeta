@@ -1,0 +1,34 @@
+{
+    "id": "cross-the-ages",
+    "name": "Cross The Ages",
+    "description": "A Collectible Card Game set in a dystopian clash of worlds that is based on 7 fantasy and sci-fi novels.",
+    "icon": "https://cdn.superb.games/100_cross_the_ages_28367774c5.webp?format=webp&quality=70&height=185", 
+    "url": "https://www.crosstheages.com/",
+    "aliases": [
+        "https://www.crosstheages.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x229F54d1460485B780c7125DaCCc989D07Fc2A18",
+                "category": "Arkhante Booster Standard Pack",          
+                "tags": ["CTA STD"]
+              },
+              {
+                "contract": "0xb6041EAe62C4591458AF480679c6A497EDA6CfcD",
+                "category": "Arkhante Booster Premium Pack",
+                "tags": ["CTAPRM"]
+              }              
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/cross-the-ages"        
+    },
+    "extra": {}
+  }

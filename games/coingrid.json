@@ -1,0 +1,34 @@
+{
+    "id": "coingrid",
+    "name": "CoinGrid",
+    "description": "CoinGrid is a casual game that allows players to go on adventures with cute and cool characters, save friends, and progress through challenges.",
+    "icon": "https://cdn.superb.games/100_coingrid_26b0eb4c0b.webp?format=webp&quality=70&height=185", 
+    "url": "http://skyplay.io/game/coingrid",
+    "aliases": [
+        "http://skyplay.io/game/coingrid"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "SKP",
+                "contract": "0x4c665bbafd28ec9e5d792345f470ebfca21e3d15",
+                "prices": {
+                  "coinpaprika": "skp-skyplay",
+                  "coinmarketcap": "skyplay",
+                  "coingecko": "skyplay",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/coingrid"        
+    },
+    "extra": {}
+  }

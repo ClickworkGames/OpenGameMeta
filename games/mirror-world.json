@@ -1,0 +1,23 @@
+{
+    "id": "mirror-world",
+    "name": "Mirror World",
+    "description": "With Mirror World, gamers can consume AI-powered gaming content from any of the games within the Mirror World Matrix and generate the main utility token MWM Token by playing.",
+    "icon": "https://cdn.superb.games/Mirror_World_icon_d8d8e464b4.webp?format=webp&quality=70&height=185",
+    "url": "https://mirrorworld.fun/",
+    "aliases": [
+        "https://mirrorworld.fun/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/mirror-world"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,23 @@
+{
+    "id": "alaska-gold-rush",
+    "name": "Alaska Gold Rush",
+    "description": "Alaska Gold Rush is the first WEB3 native game with an open world and exciting plot and adventures within the metaverse.",
+    "icon": "https://cdn.superb.games/100_alaska_gold_rush_9c62f42a2f.webp?format=webp&quality=70&height=185",
+    "url": "https://alaskagoldrush.io/",
+    "aliases": [
+        "https://alaskagoldrush.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/alaska-gold-rush"        
+    },
+    "extra": {}
+  }

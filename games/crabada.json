@@ -1,0 +1,34 @@
+{
+    "id": "crabada",
+    "name": "Crabada",
+    "description": "Crabada is a play-and-earn NFT game set in a world of fierce Hermit-Crabs called Crabada.",
+    "icon": "https://cdn.superb.games/100_crabada_b36da2bd99.webp?format=webp&quality=70&height=185",
+    "url": "https://www.crabada.com/",
+    "aliases": [
+        "https://www.crabada.com/"
+    ],  
+    "contracts": {
+        "avalanche-43114": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "CRA",
+                "contract": "0xa32608e873f9ddef944b24798db69d80bbb4d1ed",
+                "prices": {
+                  "coinpaprika": "cra-crabada",
+                  "coinmarketcap": "cra-crabada",
+                  "coingecko": "cra-crabada",
+                  "mobula": "cra-crabada"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/crabada"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,34 @@
+{
+    "id": "dexihunter",
+    "name": "DexiHunter",
+    "description": "DexiHunter is a mobile game that utilizes augmented reality (AR) to create a worldwide game universe called the Dexiverse.",
+    "icon": "https://cdn.superb.games/100_dexihunter_f21a10209e.webp?format=webp&quality=70&height=185", 
+    "url": "https://www.dexioprotocol.com/",
+    "aliases": [
+        "https://www.dexioprotocol.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "DEXI",
+                "contract": "0x65ba64899c2c7dbfdb5130e42e2cc56de281c78b",
+                "prices": {
+                  "coinpaprika": "dexi-dexihunter",
+                  "coinmarketcap": "dexi-dexihunter",
+                  "coingecko": "dexi-dexihunter",
+                  "mobula": "dexi-dexihunter"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/dexihunter"        
+    },
+    "extra": {}
+  }

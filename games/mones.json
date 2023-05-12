@@ -1,0 +1,23 @@
+{
+    "id": "mones",
+    "name": "Mones",
+    "description": "Mones is a new P2E RPG game that offers both exciting gameplay and social features, with players earning profits from a player-driven economy and connecting with other players.",
+    "icon": "https://cdn.superb.games/Mones_icon_1329e85c54.png?format=webp&quality=70&height=185",
+    "url": "https://mones.io/starter",
+    "aliases": [
+        "https://mones.io/starter"
+    ],  
+    "contracts": {
+        "avalanche-43114": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/mones"        
+    },
+    "extra": {}
+  }

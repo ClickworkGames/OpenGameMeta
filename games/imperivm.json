@@ -1,0 +1,29 @@
+{
+    "id": "imperivm",
+    "name": "Imperivm",
+    "description": "Imperivm is a free-to-play, strategic MMO fantasy game set in a medieval age with Greek/Roman mythology influences.",
+    "icon": "https://cdn.superb.games/Imperivm_icon_bf9ddedf0c.png?format=webp&quality=70&height=185", 
+    "url": "https://imperivm.io/",
+    "aliases": [
+        "https://imperivm.io/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x8E144C10e698f595B76932295982FD6De82d63C5",
+                "category": "Imperivm",          
+                "tags": ["IMP"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/imperivm"        
+    },
+    "extra": {}
+  }

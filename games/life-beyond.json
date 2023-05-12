@@ -1,0 +1,29 @@
+{
+    "id": "life-beyond",
+    "name": "Life Beyond",
+    "description": "Life Beyond—a sci-fi metaverse where players will have the freedom to build, and together own, a new virtual society on Dolos, a mysterious alien planet. Powered by Unreal Engine 5, players collect NFTs and ERC-20 tokens.",
+    "icon": "https://cdn.superb.games/Life_Beyond_icon_a572881c31.webp?format=webp&quality=70&height=185", 
+    "url": "https://playlifebeyond.com/",
+    "aliases": [
+        "https://playlifebeyond.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xafdbA94BF6F5ef00271D768b436be49a8883D918",
+                "category": "Life Beyond",          
+                "tags":  ["Life Beyond"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/life-beyond"        
+    },
+    "extra": {}
+  }

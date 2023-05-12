@@ -1,0 +1,23 @@
+{
+    "id": "big-time",
+    "name": "Big Time",
+    "description": "Big Time is a multiplayer action RPG where you team up with friends to adventure across time and space.",
+    "icon": "https://cdn.superb.games/100_big_time_6cf8ac0817.webp?format=webp&quality=70&height=185",
+    "url": "https://bigtime.gg/",
+    "aliases": [
+        "https://bigtime.gg/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/big-time"        
+    },
+    "extra": {}
+  }

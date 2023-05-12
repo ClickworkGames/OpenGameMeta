@@ -1,0 +1,34 @@
+{
+    "id": "cornucopias",
+    "name": "Cornucopias",
+    "description": "Cornucopias is an open-world MMO, allowing you to participate in a dynamic economy as you enjoy the freedom of exploration, a player-driven economy, mini-games, and tools to build and learn.",
+    "icon": "https://cdn.superb.games/100_cornucopias_62d72f9ff7.webp?format=webp&quality=70&height=185",
+    "url": "https://cornucopias.io/",
+    "aliases": [
+        "https://cornucopias.io/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "COPI",
+                "contract": "0xfea292e5ea4510881bdb840e3cec63abd43f936f",
+                "prices": {
+                  "coinpaprika": "copi-cornucopias",
+                  "coinmarketcap": "copi-cornucopias",
+                  "coingecko": "copi-cornucopias",
+                  "mobula": "copi-cornucopias"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/cornucopias"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,23 @@
+{
+    "id": "metafighter",
+    "name": "MetaFighter",
+    "description": "MetaFighter is a skill-based, play-to-earn NFT fighting game that captures the essence of arcade fighting classics.",
+    "icon": "https://cdn.superb.games/Metafighter_icon_596550f261.webp?format=webp&quality=70&height=185", 
+    "url": "https://metafighter.com/",
+    "aliases": [
+        "https://metafighter.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/metafighter"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,40 @@
+{
+    "id": "cryptomeda",
+    "name": "Cryptomeda",
+    "description": "Join the adventure in an undiscovered part of the universe where fantasy and crypto collide. Experience an animated world of unique events and characters on collectible NFT cards.",
+    "icon": "https://cdn.superb.games/cryptomeda_f9eec0767b.webp?format=webp&quality=70&height=185", 
+    "url": "https://cryptomeda.tech/",
+    "aliases": [
+        "https://cryptomeda.tech/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x27331Bbfe94D1B8518816462225B16622AC74e2e",
+                "category": "CryptomedaCards",          
+                "tags": ["CMC"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "TECH",
+                "contract": "0x6286A9e6f7e745A6D884561D88F94542d6715698",
+                "prices": {
+                  "coinpaprika": "tech-cryptomeda",
+                  "coinmarketcap": "tech-cryptomeda",
+                  "coingecko": "tech-cryptomeda",
+                  "mobula": "tech-cryptomeda"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/cryptomeda"        
+    },
+    "extra": {}
+  }

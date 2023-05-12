@@ -1,0 +1,40 @@
+{
+    "id": "metasoccer",
+    "name": "MetaSoccer",
+    "description": "MetaSoccer is the first blockchain-based soccer metaverse. Powered by a soccer manager play-to-earn game, every user can actively participate in different ways and earn rewards by their contributions to the ecosystem.",
+    "icon": "https://cdn.superb.games/Meta_Soccer_icon_1965a7530e.svg?format=webp&quality=70&height=185", 
+    "url": "https://metasoccer.com/",
+    "aliases": [
+        "https://metasoccer.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x6f5D7bA06aD7B28319d86fceC09fae5bbC83d32F",
+                "category": "Players",          
+                "tags": ["MSP"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "MSU",
+                "contract": "0xe8377a076adabb3f9838afb77bee96eac101ffb1",
+                "prices": {
+                  "coinpaprika": "msu-metasoccer",
+                  "coinmarketcap": "msu-metasoccer",
+                  "coingecko": "msu-metasoccer",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/metasoccer"        
+    },
+    "extra": {}
+  }

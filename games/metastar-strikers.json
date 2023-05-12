@@ -1,0 +1,23 @@
+{
+    "id": "metastar-strikers",
+    "name": "MetaStar Strikers",
+    "description": "MetaStar Strikers is a Web3 football game where players can own their assets and trade them with friends.",
+    "icon": "https://cdn.superb.games/Meta_Star_Strikers_icon_359efe1af7.png?format=webp&quality=70&height=185", 
+    "url": "https://metastar.gg/",
+    "aliases": [
+        "https://metastar.gg/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/metastar-strikers"        
+    },
+    "extra": {}
+  }

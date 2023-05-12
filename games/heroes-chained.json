@@ -1,0 +1,40 @@
+{
+    "id": "heroes-chained",
+    "name": "Heroes Chained",
+    "description": "Heroes Chained is a fantasy–action RPG where players become Guild Masters and gather heroes to complete missions and compete against other guilds.",
+    "icon": "https://cdn.superb.games/Heroes_Chained_icon_09c76f9644.png?format=webp&quality=70&height=185",
+    "url": "https://heroeschained.com/",
+    "aliases": [
+        "https://heroeschained.com/"
+    ],  
+    "contracts": {
+        "avalanche-43114": {
+            "assets": [      
+              {
+                "contract": "0x9c9F19434D2f0154b3dc04913c9e02A0dD969E52",
+                "category": "HC Boss Weapon",          
+                "tags": ["HCBW"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "HEC",
+                "contract": "0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c",
+                "prices": {
+                  "coinpaprika": "hec-heroes-chained",
+                  "coinmarketcap": "hec-heroes-chained",
+                  "coingecko": "hec-heroes-chained",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/heroes-chained"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,40 @@
+{
+    "id": "continuum-world",
+    "name": "Continuum World",
+    "description": "Continuum World is a Free-2-Play & Play-2-Earn MMO game developed with the latest trends and technologies such as yield-generating NFT assets and a player-driven economy.",
+    "icon": "https://cdn.superb.games/continuum_world_042b325429.webp?format=webp&quality=70&height=185", 
+    "url": "https://continuum.world/",
+    "aliases": [
+        "https://continuum.world/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xb19Dd661F076998e3B0456935092a233e12C2280",
+                "category": "ERC1155",          
+                "tags": ["ERC1155"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "UM",
+                "contract": "0x3B1A0c9252ee7403093fF55b4a5886d49a3d837a",
+                "prices": {
+                  "coinpaprika": "um-continuum-world",
+                  "coinmarketcap": "continuum-world",
+                  "coingecko": "continuum-world",
+                  "mobula": "continuum-world"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/continuum-world"        
+    },
+    "extra": {}
+  }

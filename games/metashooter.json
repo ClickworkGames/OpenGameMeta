@@ -1,0 +1,34 @@
+{
+    "id": "metashooter",
+    "name": "MetaShooter",
+    "description": "MetaShooter is the first decentralized blockchain-based hunting metaverse, joining millions of gaming enthusiasts in a community where they can experience realistic hunting in the open world and develop many activities with monetization opportunities.",
+    "icon": "https://cdn.superb.games/Meta_Shooter_icon_c1d76d1bac.png?format=webp&quality=70&height=185", 
+    "url": "https://metashooter.gg/",
+    "aliases": [
+        "https://metashooter.gg/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [],           
+            "tokens": [               
+              {
+                "symbol": "MHUNT",
+                "contract": "0x61f95bd637e3034133335c1baa0148e518d438ad",
+                "prices": {
+                  "coinpaprika": "mhunt-metashooter",
+                  "coinmarketcap": "mhunt-metashooter",
+                  "coingecko": "mhunt-metashooter",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/metashooter"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,40 @@
+{
+    "id": "dragon-master",
+    "name": "Dragon Master",
+    "description": "DragonMaster is the first blockchain-based Metaverse game that blends RTS, MOBA, Collection, and Play-to-Earn gameplay.",
+    "icon": "https://cdn.superb.games/100_dragonmaster_fc0fba929f.webp?format=webp&quality=70&height=185", 
+    "url": "https://www.dragonmaster.co/#/",
+    "aliases": [
+        "https://www.dragonmaster.co/#/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x3B58b1bf2068BF3a718836F184488645630B81C2",
+                "category": "Dragon Master",          
+                "tags": ["DM"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "DMT",
+                "contract": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
+                "prices": {
+                  "coinpaprika": "totem-dragon-master",
+                  "coinmarketcap": "dmt-dragon-master",
+                  "coingecko": "dmt-dragon-master",
+                  "mobula": ""
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/dragon-master"        
+    },
+    "extra": {}
+  }

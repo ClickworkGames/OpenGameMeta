@@ -1,0 +1,29 @@
+{
+    "id": "chronos-dawn-of-time",
+    "name": "Chronos: Dawn Of Time",
+    "description": "Fight fierce enemies and build your village in a post-apocalyptic RPG available for both PC & Mobile.", 
+    "icon": "https://cdn.superb.games/100_chronos_dawn_of_time_0f91d89fff.webp?format=webp&quality=70&height=185", 
+    "url": "https://playchronos.io/",
+    "aliases": [
+        "https://playchronos.io//"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0xa03C4E40d1fCaa826591007a17Ca929ef8AdBF1C",
+                "category": "Traveler",          
+                "tags": ["TRV"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/chronos-dawn-of-time"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,28 @@
+{
+    "id": "destoria",
+    "name": "Destoria",
+    "description": "An open-world ecosystem and massively multiplayer online role-playing game (MMORPG) powered by Unreal Engine 5.",
+    "url": "https://www.destoria.io/",
+    "aliases": [
+        "https://www.destoria.io/"
+    ],  
+    "contracts": {
+        "ethereum-1": {
+            "assets": [      
+              {
+                "contract": ["0x79b19A55022585ed0CEBa3890495e5fcd0B76A72"],
+                "category": ["Destoria: Founder's Pass"],
+                "tags": ["DFP"]
+              }
+            ],           
+            "tokens": [],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/destoria"        
+    },
+    "extra": {}
+  }

@@ -1,0 +1,40 @@
+{
+    "id": "chumbi-valley",
+    "name": "Chumbi Valley",
+    "description": "Chumbi Valley is a role-playing blockchain game featuring cute NFT creatures called Chumbi that live in a picturesque and mysterious forest valley.", 
+    "icon": "https://cdn.superb.games/chumbi_valley_c6b128d97d.webp?format=webp&quality=70&height=185", 
+    "url": "https://chumbivalley.com/",
+    "aliases": [
+        "https://chumbivalley.com/"
+    ],  
+    "contracts": {
+        "polygon-137": {
+            "assets": [      
+              {
+                "contract": "0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+                "category": "Chumbi",          
+                "tags": ["CHUMBI"]
+              }
+            ],           
+            "tokens": [               
+              {
+                "symbol": "CHMB",
+                "contract": "0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+                "prices": {
+                  "coinpaprika": "chmb-chumbi-valley",
+                  "coinmarketcap": "chumbi-valley",
+                  "coingecko": "chumbai-valley",
+                  "mobula": "chumbi-valley"
+                }
+              }
+            ],
+            "rent": [],
+            "defi": [],
+            "other": []  
+        }        
+    },
+    "social": {       
+        "superb": "https://superb.games/games/chumbi-valley"        
+    },
+    "extra": {}
+  }
