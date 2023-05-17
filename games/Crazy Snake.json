@@ -1,40 +1,38 @@
 {
-    "id": "Crazy Snake",
-    "name": "Crazy Snake",
-    "description": "The first Web3.0 snake game.",
-   "icon" "https://cdn.superb.games/100_crazy_snake_web3_game_f9822c0a97.webp?format=webp&quality=70&height=185", 
-    "url": "https://www.crazysnake.io/#/index",
-    "aliases": [
-        "https://www.crazysnake.io/#/index"
-    ],  
-    "contracts": {
-        "polygon-137": {
-            "assets": [      
-              {
-                "contract": "0x057427C9498464F2D031FC294F41d333C22c2790",
-                "category": "CrazySnakeNFT",          
-                "tags": ["SnakeNFT"]
-              }
-            ],           
-            "tokens": [               
-              {
-                "symbol": "Crazy",
-                "contract": "0x7FFC48Db599137E7A994BB8309F124E77B392043",
-                "prices": {
-                  "coinpaprika": "",
-                  "coinmarketcap": "",
-                  "coingecko": "",
-                  "mobula": ""
-                }
-              }
-            ],
-            "rent": [],
-            "defi": [],
-            "other": []  
-        }        
-    },
-    "social": {       
-        "superb": "https://superb.games/games/crazy-snake"        
-    },
-    "extra": {}
-  }
+  "id": "Crazy Snake",
+  "name": "Crazy Snake",
+  "description": "The first Web3.0 snake game.",
+  "icon": "https://cdn.superb.games/100_crazy_snake_web3_game_f9822c0a97.webp?format=webp&quality=70&height=185",
+  "url": "https://www.crazysnake.io/#/index",
+  "aliases": ["https://www.crazysnake.io/#/index"],
+  "contracts": {
+    "polygon-137": {
+      "assets": [
+        {
+          "contract": "0x057427C9498464F2D031FC294F41d333C22c2790",
+          "category": "CrazySnakeNFT",
+          "tags": ["SnakeNFT"]
+        }
+      ],
+      "tokens": [
+        {
+          "symbol": "Crazy",
+          "contract": "0x7FFC48Db599137E7A994BB8309F124E77B392043",
+          "prices": {
+            "coinpaprika": "",
+            "coinmarketcap": "",
+            "coingecko": "",
+            "mobula": ""
+          }
+        }
+      ],
+      "rent": [],
+      "defi": [],
+      "other": []
+    }
+  },
+  "social": {
+    "superb": "https://superb.games/games/crazy-snake"
+  },
+  "extra": {}
+}
