@@ -1,0 +1,31 @@
+{
+  "id": "kardiachain-24",
+  "module": "evm",
+  "name": "KardiaChain",
+  "chain": "kardiachain",
+  "network": "kardiachain",
+  "chainId": 24,
+  "networkId": 24, 
+  "aliases": ["kardiachain", "kardiachain-mainnet"], 
+  "icon": "https://cdn.superb.games/kardiachain_icon_red_3961253963.png?format=png&quality=100&height=150",
+  "rpc": [
+    "https://rpc.kardiachain.io"    
+  ],  
+  "nativeCurrency": {
+    "name": "KAI",
+    "symbol": "KAI",
+    "decimals": 18
+  }, 
+  "explorers": [
+    {
+      "name": "KardiaChain Explorer",
+      "url": "https://explorer.kardiachain.io"         
+    }
+  ],
+  "extra": {
+    "infoURL": "https://kardiachain.io/",
+    "shortName": "kai",    
+    "superb-support": []
+  },
+  "testnet": false
+}
