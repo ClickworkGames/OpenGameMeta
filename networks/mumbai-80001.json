@@ -9,6 +9,7 @@
   "aliases": ["mumbai", "matic-mumbai", "polygon-mumbai", "maticmum"],
   "icon": "https://cdn.superb.games/polygon_matic_logo_a2a25b07ef.png?format=png&quality=100&height=150",
   "rpc": [
+    "https://polygon-testnet.public.blastapi.io",
     "https://matic-mumbai.chainstacklabs.com",
     "https://polygon-mumbai.g.alchemy.com/v2",
     "https://polygon-mumbai.infura.io/v3",
