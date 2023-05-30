@@ -1,0 +1,46 @@
+{
+	"id": "cryplect",
+	"name": "Cryplect",
+	"description": "​​Cryplect is a fantasy basketball game where fans can buy, trade, play, and earn prizes with licensed digital cards.",
+	"icon": "https://cdn.superb.games/cryplect_logo_7bdc353ef4.svg?format=webp&quality=70&height=185",
+	"url": "https://www.cryplect.com/",
+	"aliases": [
+		"https://www.cryplect.com/"
+	],
+	"contracts": {
+		"polygon-137": {
+			"assets": [
+                {
+                    "contract": "0xd526e57d48281cb979e73ecff161d6bd0dd88ac0",
+                    "category": "Betsafe-LKL 2022-2023 Season",
+                    "tags": [
+                        "Betsafe-LKL",
+                        "basketball",
+                        "2022-2023 season"
+                    ]
+                }
+            ],
+			"tokens": [],
+			"rent": [],
+			"defi": []		
+		}	
+	},
+    "social": {
+        "facebook": "https://www.facebook.com/cryplect/",
+        "linkedin": "https://www.linkedin.com/company/cryplect/",        
+        "discord": "https://discord.gg/D72xcyZ9UH",
+        "superb": "https://superb.games/games/cryplect"
+    },  
+    "extra": {        
+        "Authors": "Scorestars",				
+        "ExternalUrl": "https://www.cryplect.com/packs",
+        "Traits": [
+            "Player Name",
+            "Club Name",
+            "Season",
+            "Scarcity",
+            "Basketball",
+            "Edition/Editions"
+        ]       
+    }
+}
